@@ -1,0 +1,17 @@
+@using Sitecore.Mvc
+@using Sitecore.Mvc.Presentation
+@model RenderingModel
+
+<!-- Hero Start -->
+<div class="container-fluid bg-primary p-5 bg-hero mb-5">
+    <div class="row py-5">
+        <div class="col-12 text-center">
+            <h1 class="display-2 text-uppercase text-white mb-md-4">@Html.Sitecore().Field("Hero Title")</h1>
+            @*<a href="" class="btn btn-primary py-md-3 px-md-5 me-3">@Html.Sitecore().Field("Primary Link")</a>*@
+            @Html.Sitecore().Field("Primary Link", new { @class = "btn btn-primary py-md-3 px-md-5 me-3" })
+            @*<a href="" class="btn btn-light py-md-3 px-md-5">@Html.Sitecore().Field("Secondary Link")</a>*@
+            @Html.Sitecore().Field("Secondary Link", new { @class = "btn btn-light py-md-3 px-md-5" })
+        </div>
+    </div>
+</div>
+<!-- Hero End -->
