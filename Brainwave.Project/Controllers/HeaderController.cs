@@ -29,7 +29,8 @@ namespace Gymster.Project.Controllers
 
             foreach (Item childItem in homeItem.Children)
             {
-                if (((CheckboxField)childItem.Fields["Show In Navigation"]).Checked)
+                var showInNavField = (CheckboxField)childItem.Fields["Show In Navigation"];
+                if (showInNavField != null && showInNavField.Checked)
                 {
                     navigations.Add(new Navigation
                     {
