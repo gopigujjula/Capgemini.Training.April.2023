@@ -1,0 +1,44 @@
+@using Sitecore.Mvc
+@using Sitecore.Mvc.Presentation
+@model Sitecore.Data.Items.Item[]
+
+@{
+    int counter = 0;
+}
+@if (Model != null && Model.Length > 0)
+{
+    <!-- Carousel Start -->
+    <div class="container-fluid p-0 mb-5">
+        <div id="header-carousel" class="carousel slide" data-bs-ride="carousel">
+            <div class="carousel-inner">
+                @foreach (var slideItem in Model)
+                {
+                    var activeClass = counter == 0 ? "active" : string.Empty;
+                    <div class="carousel-item @activeClass">
+                        @Html.Sitecore().Field("Image", slideItem, new { @class = "w-100" })
+                        <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
+                            <div class="p-3" style="max-width: 900px;">
+                                <h5 class="text-white text-uppercase">@Html.Sitecore().Field("Title", slideItem)</h5>
+                                <h1 class="display-2 text-white text-uppercase mb-md-4">@Html.Sitecore().Field("Subtitle", slideItem)</h1>
+                                @Html.Sitecore().Field("Primary Link", slideItem, new { @class = "btn btn-primary py-md-3 px-md-5 me-3" })
+                                @Html.Sitecore().Field("Secondary Link", slideItem, new { @class = "btn btn-light py-md-3 px-md-5" })
+                            </div>
+                        </div>
+                    </div>
+                    counter++;
+                }
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#header-carousel"
+                    data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#header-carousel"
+                    data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Next</span>
+            </button>
+        </div>
+    </div>
+    <!-- Carousel End -->
+}

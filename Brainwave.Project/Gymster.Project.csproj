@@ -110,7 +110,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Controllers\CarouselController.cs" />
+    <Compile Include="Controllers\HeaderController.cs" />
     <Compile Include="Controllers\HeroController.cs" />
+    <Compile Include="Models\HeaderModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -144,16 +147,18 @@
     <Content Include="assets\lib\owlcarousel\owl.carousel.js" />
     <Content Include="assets\lib\owlcarousel\owl.carousel.min.js" />
     <Content Include="assets\lib\waypoints\waypoints.min.js" />
-    <Content Include="Views\Gymster\Layouts\BasicLayout.cshtml" />
+    <Content Include="Views\Gymster\Layouts\BasicLayout.cshtml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="Views\Gymster\Components\AboutUs.cshtml" />
     <Content Include="Views\Gymster\Components\Hero.cshtml" />
     <Content Include="Views\Gymster\Components\HeroControllerExample.cshtml" />
+    <Content Include="Views\Gymster\Components\Carousel.cshtml" />
+    <Content Include="Views\Gymster\Components\HeaderNavigation.cshtml" />
     <None Include="Views\web.config" />
     <None Include="packages.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Models\" />
-  </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
