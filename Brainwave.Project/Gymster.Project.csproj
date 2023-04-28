@@ -113,6 +113,7 @@
     <Compile Include="Controllers\CarouselController.cs" />
     <Compile Include="Controllers\HeaderController.cs" />
     <Compile Include="Controllers\HeroController.cs" />
+    <Compile Include="Models\CarouselModel.cs" />
     <Compile Include="Models\HeaderModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -155,6 +156,7 @@
     <Content Include="Views\Gymster\Components\HeroControllerExample.cshtml" />
     <Content Include="Views\Gymster\Components\Carousel.cshtml" />
     <Content Include="Views\Gymster\Components\HeaderNavigation.cshtml" />
+    <Content Include="Views\Gymster\Components\CarouselModelExample.cshtml" />
     <None Include="Views\web.config" />
     <None Include="packages.config" />
   </ItemGroup>
