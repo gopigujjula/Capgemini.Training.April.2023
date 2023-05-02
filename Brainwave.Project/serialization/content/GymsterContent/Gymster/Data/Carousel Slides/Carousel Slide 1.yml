@@ -1,0 +1,32 @@
+﻿---
+ID: "dd363b8b-cd42-4969-8e92-3e74891b4168"
+Parent: "419594f4-9b23-4134-affe-3712be5ba788"
+Template: "86f52062-85fc-4dd6-a5a0-207768d78726"
+Path: /sitecore/content/Gymster/Data/Carousel Slides/Carousel Slide 1
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230427T091848Z
+    - ID: "27b750cf-3ad6-4563-901d-b1aa76b8abb1"
+      Hint: Image
+      Value: |
+        <image mediaid="{B4F33871-CC09-4D6A-9FF3-D16A0D013D74}" />
+    - ID: "7ad76106-058d-42cc-8e63-118ad7fbc01b"
+      Hint: Subtitle
+      Value: Grow Your Strength With Our Trainers
+    - ID: "7cd64a91-9b41-40d4-90d1-525aecc62632"
+      Hint: Secondary Link
+      Value: |
+        <link text="Contact us" anchor="" linktype="internal" class="" title=""  querystring="" id="{ECC8AAD9-D8CF-43D2-AAB4-24C0C246FFF1}" />
+    - ID: "9f392045-5105-4a09-9d38-e184278f3c16"
+      Hint: Primary Link
+      Value: |
+        <link text="Join us" anchor="" linktype="internal" class="" title=""  querystring="" id="{ECC8AAD9-D8CF-43D2-AAB4-24C0C246FFF1}" />
+    - ID: "ff5633ea-cd39-44cb-ad28-89916846575f"
+      Hint: Title
+      Value: Best Gym Ever

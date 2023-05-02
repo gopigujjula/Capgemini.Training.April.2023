@@ -1,0 +1,36 @@
+﻿---
+ID: "5c882ecc-20eb-4c6e-9889-79c56ace2368"
+Parent: "9c3b8f3e-3138-4dcf-bf89-97432c1f76a4"
+Template: "9c3b8f3e-3138-4dcf-bf89-97432c1f76a4"
+Path: /sitecore/templates/Gymster/Data Templates/Carousel/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230428T090315Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "62c54df4-ef5d-42eb-aef6-cdfae549e736"
+      Hint: Date Time Token
+      Value: $now
+    - ID: "936bf8bd-d23c-455e-a382-34a50f3c2a67"
+      Hint: ParentID Token
+      Value: $parentid
+    - ID: "af8293d5-6ce1-4d4a-89f9-a26ec3e10de3"
+      Hint: Date Token
+      Value: $date
+    - ID: "c883a6cb-4796-44b6-b31e-7e2b47fbab39"
+      Hint: Name Token
+      Value: $name
+    - ID: "d28e5bfc-9c8e-47d9-8592-5f6c55b2b71e"
+      Hint: Parent Name Token
+      Value: $parentname
+    - ID: "efbefb22-5405-482d-abf0-72bbbf7fb842"
+      Hint: ID Token
+      Value: $id

@@ -1,0 +1,43 @@
+﻿---
+ID: "454038de-bb38-455b-a2c3-48ac5f478dd1"
+Parent: "ecc8aad9-d8cf-43d2-aab4-24c0c246fff1"
+Template: "6aa3d36e-620d-44b4-a904-2b3fa7baccb0"
+Path: /sitecore/content/Gymster/Home/About
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{1090B877-DE8E-4C1F-AD06-C266BB53352C}"
+          p:after="*[1=2]"
+          s:ds="{2520E2D1-56C2-4102-B2E3-76D758790659}"
+          s:id="{54884DD5-C39C-4931-9BE5-5672C769C455}"
+          s:par="Slide Size=1"
+          s:ph="main"
+          s:ccb="Clear on publish" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230427T104855Z
+    - ID: "864e4a76-08aa-4a40-b9f5-d0eaeba6d695"
+      Hint: Show In Navigation
+      Type: Checkbox
+      Value: 1
+    - ID: "d5614ffc-6007-4e7c-9258-bb5246cafd9c"
+      Hint: Navigation Title
+      Value: About

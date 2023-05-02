@@ -1,0 +1,18 @@
+﻿---
+ID: "b47be1fc-319d-4254-87ea-d458a05e285a"
+Parent: "894e9b37-e3ae-46cf-b8a9-26c5beb4a7f4"
+Template: "894e9b37-e3ae-46cf-b8a9-26c5beb4a7f4"
+Path: /sitecore/templates/Gymster/Data Templates/Hero/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230426T093744Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

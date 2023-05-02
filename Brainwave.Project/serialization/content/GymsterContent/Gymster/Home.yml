@@ -1,0 +1,65 @@
+﻿---
+ID: "ecc8aad9-d8cf-43d2-aab4-24c0c246fff1"
+Parent: "c056093c-da98-4e29-b8eb-77d63804e13f"
+Template: "6126187c-de2d-4089-acb6-bb2ee1e1fea7"
+Path: /sitecore/content/Gymster/Home
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{6AA3D36E-620D-44B4-A904-2B3FA7BACCB0}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{CC9BE967-E184-4904-9C6F-8623B6C0CEA7}"
+          p:after="p[@uid='{D1D1A289-A88B-4254-9F21-4312D16F688B}']"
+          s:ds="{2520E2D1-56C2-4102-B2E3-76D758790659}"
+          s:id="{54884DD5-C39C-4931-9BE5-5672C769C455}"
+          s:par="Slide Size=3"
+          s:ph="main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{96C11872-7160-47BC-AD19-2B245A32F0F0}"
+          p:after="r[@uid='{CC9BE967-E184-4904-9C6F-8623B6C0CEA7}']"
+          s:ds="{1F8619F8-FC37-46DC-B9F6-9309476E65B8}"
+          s:id="{3D8D2E5B-602F-44CD-BC73-139C9645FB7A}"
+          s:par=""
+          s:ph="main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{F68EF912-3FB6-4886-BEBD-42B835A9F7B1}"
+          s:ccb="Clear on publish"
+          s:ds="{48B19417-A069-4635-8001-C800780A8929}"
+          s:par="" />
+        <r
+          uid="{848A6107-46F6-47B8-BA0E-A9AC65F433FD}"
+          p:after="*[1=2]"
+          s:ds="{1F8619F8-FC37-46DC-B9F6-9309476E65B8}"
+          s:id="{EC7005A3-E4CC-478B-82A5-AFB63FAD2013}"
+          s:par=""
+          s:ph="main"
+          s:ccb="Clear on publish" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230426T084235Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "d5614ffc-6007-4e7c-9258-bb5246cafd9c"
+      Hint: Navigation Title
+      Value: Home

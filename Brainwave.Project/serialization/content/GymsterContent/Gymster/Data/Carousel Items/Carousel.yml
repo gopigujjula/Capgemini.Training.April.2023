@@ -1,0 +1,25 @@
+﻿---
+ID: "2520e2d1-56c2-4102-b2e3-76d758790659"
+Parent: "f48158c5-4ae8-4135-bb9c-6e54e673d3b2"
+Template: "9c3b8f3e-3138-4dcf-bf89-97432c1f76a4"
+Path: /sitecore/content/Gymster/Data/Carousel Items/Carousel
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230427T094035Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "776bea6e-b927-4ec1-9038-dbd19d0b63f5"
+      Hint: Slides
+      Type: Treelist
+      Value: |
+        {DD363B8B-CD42-4969-8E92-3E74891B4168}
+        {481C3047-0736-404D-B345-E9872570F6A1}
+        {DF653F77-D7F6-4C95-8FF7-AD5A79AAD2D2}

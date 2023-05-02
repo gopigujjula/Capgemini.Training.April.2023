@@ -1,0 +1,21 @@
+﻿---
+ID: "aab1f1bd-2db9-4bc9-9f65-a7cffb382db9"
+Parent: "27b10e9f-2cf8-4585-bfe9-07128dd04020"
+Template: "27b10e9f-2cf8-4585-bfe9-07128dd04020"
+Path: /sitecore/templates/Gymster/Parameter Templates/Carousel Rendering Parameters/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "03ddacdd-be58-4020-96fb-eb3e67b91957"
+      Hint: Slide Size
+      Value: 2
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230428T092112Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

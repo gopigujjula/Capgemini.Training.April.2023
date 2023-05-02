@@ -1,0 +1,31 @@
+﻿---
+ID: "48b19417-a069-4635-8001-c800780a8929"
+Parent: "b652592b-2926-4a43-aea0-a66cda2e5691"
+Template: "0993be21-092d-43ed-a36b-aa92022ab121"
+Path: /sitecore/content/Gymster/Data/About us/About us Data
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1fe6a236-c483-43a2-b9d1-55425eb9e66d"
+      Hint: Summary
+      Value: Nonumy erat diam duo labore clita. Sit magna ipsum dolor sed ea duo at ut. Tempor sit lorem sit magna ipsum duo.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230426T090816Z
+    - ID: "340b3277-aea1-4a9b-833c-e1b828d7cd05"
+      Hint: SubTitle
+      Value: WELCOME TO GYMSTER
+    - ID: "3f95c6a1-bc9c-43bf-88c9-cdb445d32594"
+      Hint: Title
+      Value: ABOUT US UPDATE 2
+    - ID: "8b787a61-a67c-4b9f-a0ba-80cf96155221"
+      Hint: Description
+      Value: |
+        <span style="background-color: #ffffff; color: #686a6f;">Nonumy erat diam duo labore clita. Sit magna ipsum dolor sed ea duo at ut. Tempor sit lorem sit magna ipsum duo. Sit eos dolor ut sea rebum, diam sea rebum lorem kasd ut ipsum dolor est ipsum. Et stet amet justo amet clita erat, ipsum sed at ipsum eirmod labore lorem.</span>
+    - ID: "cd4c8e63-9bf4-4688-8903-6c32d8b5d578"
+      Hint: About Image
+      Value: |
+        <image mediaid="{5EF4F6AF-2A40-4190-B770-89A7E8B9E042}" />

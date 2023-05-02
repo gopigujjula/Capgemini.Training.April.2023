@@ -1,0 +1,14 @@
+﻿---
+ID: "f48158c5-4ae8-4135-bb9c-6e54e673d3b2"
+Parent: "891ccbca-c8b9-4bf4-9318-312c5faeecd3"
+Template: "95be744a-6ee8-48a3-b550-13c8c9d0acc6"
+Path: /sitecore/content/Gymster/Data/Carousel Items
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230428T083640Z

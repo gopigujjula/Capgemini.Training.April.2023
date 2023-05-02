@@ -1,0 +1,14 @@
+﻿---
+ID: "419594f4-9b23-4134-affe-3712be5ba788"
+Parent: "891ccbca-c8b9-4bf4-9318-312c5faeecd3"
+Template: "d80d1e07-50ed-4d1d-a670-8ba9e50551d1"
+Path: /sitecore/content/Gymster/Data/Carousel Slides
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230428T083659Z

@@ -1,0 +1,39 @@
+﻿---
+ID: "0c3b75aa-c037-48da-89d8-246140438b12"
+Parent: "ecc8aad9-d8cf-43d2-aab4-24c0c246fff1"
+Template: "6aa3d36e-620d-44b4-a904-2b3fa7baccb0"
+Path: /sitecore/content/Gymster/Home/Classes
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{E3ADF7AF-870C-4F52-AD69-05FCE7B36257}"
+          p:after="*[1=2]"
+          s:ds="{2520E2D1-56C2-4102-B2E3-76D758790659}"
+          s:id="{630A79E8-36CB-4BAB-AA6D-8227EBCEBF9F}"
+          s:par="Slide Size=2"
+          s:ph="main"
+          s:ccb="Clear on publish" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230427T104912Z
+    - ID: "d5614ffc-6007-4e7c-9258-bb5246cafd9c"
+      Hint: Navigation Title
+      Value: Classes

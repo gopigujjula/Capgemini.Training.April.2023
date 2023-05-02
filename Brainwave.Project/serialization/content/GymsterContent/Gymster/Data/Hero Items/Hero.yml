@@ -1,0 +1,25 @@
+﻿---
+ID: "1f8619f8-fc37-46dc-b9f6-9309476e65b8"
+Parent: "3d9ace9e-dc89-47c4-9f35-78a1117a6ced"
+Template: "894e9b37-e3ae-46cf-b8a9-26c5beb4a7f4"
+Path: /sitecore/content/Gymster/Data/Hero Items/Hero
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "016c4566-4747-49ae-adfa-527521ce347c"
+      Hint: Secondary Link
+      Value: |
+        <link text="Sitecore" linktype="external" url="https://www.sitecore.com" anchor="" target="_blank" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230426T093904Z
+    - ID: "6407dd6b-80c0-461c-b917-7086403615d9"
+      Hint: Hero Title
+      Value: About us
+    - ID: "83402f88-0384-43f6-ac06-8aac3ff2f11d"
+      Hint: Primary Link
+      Value: |
+        <link text="Home" anchor="" linktype="internal" class="" title=""  querystring="" id="{ECC8AAD9-D8CF-43D2-AAB4-24C0C246FFF1}" />

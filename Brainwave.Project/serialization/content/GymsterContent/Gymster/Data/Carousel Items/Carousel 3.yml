@@ -1,0 +1,32 @@
+﻿---
+ID: "6fa6afdd-a5f6-4ad9-b334-7074cbb0f1e5"
+Parent: "f48158c5-4ae8-4135-bb9c-6e54e673d3b2"
+Template: "9c3b8f3e-3138-4dcf-bf89-97432c1f76a4"
+Path: /sitecore/content/Gymster/Data/Carousel Items/Carousel 3
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230428T090413Z
+    - ID: "62c54df4-ef5d-42eb-aef6-cdfae549e736"
+      Hint: Date Time Token
+      Value: 20230428T090413Z
+    - ID: "936bf8bd-d23c-455e-a382-34a50f3c2a67"
+      Hint: ParentID Token
+      Value: "{F48158C5-4AE8-4135-BB9C-6E54E673D3B2}"
+    - ID: "af8293d5-6ce1-4d4a-89f9-a26ec3e10de3"
+      Hint: Date Token
+      Value: 20230428Z
+    - ID: "c883a6cb-4796-44b6-b31e-7e2b47fbab39"
+      Hint: Name Token
+      Value: Carousel 3
+    - ID: "d28e5bfc-9c8e-47d9-8592-5f6c55b2b71e"
+      Hint: Parent Name Token
+      Value: Carousel Items
+    - ID: "efbefb22-5405-482d-abf0-72bbbf7fb842"
+      Hint: ID Token
+      Value: "{6FA6AFDD-A5F6-4AD9-B334-7074CBB0F1E5}"

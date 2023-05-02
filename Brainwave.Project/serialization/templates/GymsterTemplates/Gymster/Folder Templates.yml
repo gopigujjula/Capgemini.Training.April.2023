@@ -1,0 +1,18 @@
+﻿---
+ID: "34c3cd90-19e6-4900-aef2-dbd1c1b194d5"
+Parent: "cada82bb-6ac6-4690-8033-7f99d42318ec"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Gymster/Folder Templates
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230426T090350Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

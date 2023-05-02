@@ -1,0 +1,27 @@
+﻿---
+ID: "cef1aea9-17e9-4829-9e88-8b1de79474d9"
+Parent: "85513f93-ab0d-47f0-9387-cc631e13894c"
+Template: "85513f93-ab0d-47f0-9387-cc631e13894c"
+Path: /sitecore/templates/Gymster/Folder Templates/Data/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {BDD29077-0FF1-4BC2-BC43-B667B9EA71CF}
+    {95BE744A-6EE8-48A3-B550-13C8C9D0ACC6}
+    {D80D1E07-50ED-4D1D-A670-8BA9E50551D1}
+    {A850BD96-1E08-46EA-AB0B-56A0BC27E25D}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230426T085741Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

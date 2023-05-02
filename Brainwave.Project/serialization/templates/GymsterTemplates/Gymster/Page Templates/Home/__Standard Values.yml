@@ -1,0 +1,45 @@
+﻿---
+ID: "b6f4e26e-8e8a-4f1a-957a-f3df5558cb22"
+Parent: "6126187c-de2d-4089-acb6-bb2ee1e1fea7"
+Template: "6126187c-de2d-4089-acb6-bb2ee1e1fea7"
+Path: /sitecore/templates/Gymster/Page Templates/Home/__Standard Values
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{A01E10E7-7444-4206-A0CE-D72161EB678B}">
+        <p
+          uid="{D1D1A289-A88B-4254-9F21-4312D16F688B}"
+          key="main"
+          md="{7F9E93CA-1847-4BF1-BD94-3150598D3EB4}" />
+        <r
+          id="{F27BFCB2-16A1-4FA5-A7B8-CB980098C483}"
+          ph="main"
+          uid="{F68EF912-3FB6-4886-BEBD-42B835A9F7B1}" />
+        <r
+          id="{7B6C5E03-88ED-46BA-9023-0CB8A7974C83}"
+          ph="header-nav"
+          uid="{3334E440-F00F-4D30-AA8C-9901CE5C6BB0}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230426T085541Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "864e4a76-08aa-4a40-b9f5-d0eaeba6d695"
+      Hint: Show In Navigation
+      Type: Checkbox
+      Value: 1

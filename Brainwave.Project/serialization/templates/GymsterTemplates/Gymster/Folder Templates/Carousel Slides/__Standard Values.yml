@@ -1,0 +1,25 @@
+﻿---
+ID: "c44faba0-7876-415f-93cf-03dd81ddb66d"
+Parent: "d80d1e07-50ed-4d1d-a670-8ba9e50551d1"
+Template: "d80d1e07-50ed-4d1d-a670-8ba9e50551d1"
+Path: /sitecore/templates/Gymster/Folder Templates/Carousel Slides/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {A87A00B1-E6DB-45AB-8B54-636FEC3B5523}
+    {86F52062-85FC-4DD6-A5A0-207768D78726}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230428T082944Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

@@ -1,0 +1,18 @@
+﻿---
+ID: "c056093c-da98-4e29-b8eb-77d63804e13f"
+Parent: "0de95ae4-41ab-4d01-9eb0-67441b7c2450"
+Template: "ac7c22be-e032-4077-b163-bf9c272b5d7d"
+Path: /sitecore/content/Gymster
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230426T084147Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
