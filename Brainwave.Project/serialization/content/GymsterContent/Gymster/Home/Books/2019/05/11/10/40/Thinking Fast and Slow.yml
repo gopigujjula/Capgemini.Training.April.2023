@@ -1,0 +1,75 @@
+﻿---
+ID: "bc5691bf-fafd-4fa0-bfaf-e45f4a8b03b7"
+Parent: "b0e35742-b5d9-4d38-8509-67c56a739240"
+Template: "c77cbf36-e660-4c1a-ab94-85f172ca180a"
+Path: /sitecore/content/Gymster/Home/Books/2019/05/11/10/40/Thinking Fast and Slow
+DB: master
+SharedFields:
+- ID: "9862ecb6-3e36-452d-8a0f-19272462e727"
+  Hint: Published Date
+  Value: 20120527T183000Z
+- ID: "9dafca1d-d618-4616-86b8-a8acd6b28a63"
+  Hint: __Bucket Parent Reference
+  Value: "{6DDBC62A-F0AE-4816-A602-F65A963EEEA4}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "24d7a5d2-d2b3-4d52-927e-c6722f6587f4"
+    Hint: Title
+    Value: Thinking, Fast and Slow
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "18ebde06-3a15-4786-97a6-a88b23ceda0e"
+      Hint: ISBN 13
+      Value: "978-0141033570"
+    - ID: "2231b463-fb6c-4412-8f05-c7715ca9af3a"
+      Hint: Number of Pages
+      Value: 512
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190511T104035Z
+    - ID: "26fbf511-a5ec-4f33-8a49-21dfc6f78079"
+      Hint: Summary
+      Value: |
+        Thinking, Fast and Slow’ is an International Bestseller authored by the eminent economist and psychologist Daniel Kahneman. The book takes the readers on a fascinating journey by dissecting the mind and goes onto explain two distinct systems that affects our way of thinking and making choices. Of these two systems, one is intuitive, emotional yet fast while the other one is more logical and deliberative.
+        
+        In this book, Kahneman exposes certain extraordinary capabilities of fast thinking along with its flaws and biases and explains how it shapes a person’s behaviour and thoughts.
+        
+        In simple yet engaging words, the book debates about the importance of taking risks, the proper ways to skill development, dangers of prediction, the cognitive biases and its effect, of people on how they view others and the real component of happiness.
+        
+        The author also explains how the two systems should be understood properly so as to make proper and correct decisions concerning professional and personal growth that are mostly at conflict with each other.
+    - ID: "36461b6b-ef53-47c0-97f7-5373de7f2bf3"
+      Hint: Book Language
+      Value: English
+    - ID: "434a9027-02c8-4852-8d34-6ed59c9309f8"
+      Hint: Description
+      Value: |
+        <p style="color: #333333; background-color: #ffffff; margin-right: 0px; margin-bottom: 14px; margin-left: 0px; padding: 0px;">Thinking, Fast and Slow&rsquo; is an International Bestseller authored by the eminent economist and psychologist Daniel Kahneman. The book takes the readers on a fascinating journey by dissecting the mind and goes onto explain two distinct systems that affects our way of thinking and making choices. Of these two systems, one is intuitive, emotional yet fast while the other one is more logical and deliberative.</p>
+        <p style="color: #333333; background-color: #ffffff; margin: -4px 0px 14px; padding: 0px;">In this book, Kahneman exposes certain extraordinary capabilities of fast thinking along with its flaws and biases and explains how it shapes a person&rsquo;s behaviour and thoughts.</p>
+        <p style="color: #333333; background-color: #ffffff; margin: -4px 0px 14px; padding: 0px;">In simple yet engaging words, the book debates about the importance of taking risks, the proper ways to skill development, dangers of prediction, the cognitive biases and its effect, of people on how they view others and the real component of happiness.</p>
+        <p style="color: #333333; background-color: #ffffff; margin: -4px 0px 14px; padding: 0px;">The author also explains how the two systems should be understood properly so as to make proper and correct decisions concerning professional and personal growth that are mostly at conflict with each other.</p>
+    - ID: "5f843adb-e7ee-472b-adb1-7385dc7636f1"
+      Hint: Publisher
+      Value: Penguin
+    - ID: "7329b758-505a-49b2-9890-7a12cd751431"
+      Hint: Front Cover
+      Value: |
+        <image mediaid="{70D6931C-23A2-4A71-88C2-95E5EDE107D1}" />
+    - ID: "89957319-c5fa-4c80-9bc1-63f896e8ec60"
+      Hint: ISBN 10
+      Value: 0141033576
+    - ID: "d33ad0de-05c6-419e-a8a5-0b823defaea8"
+      Hint: Book Type
+      Value: "{E484086A-0A9F-4F62-98B6-EDC784585C01}"
+    - ID: "ec1d2eb7-f58e-458e-9bdd-2b579dde2953"
+      Hint: Price
+      Value: 249
+    - ID: "efd4d78b-1f8e-496a-a522-b4211903cc35"
+      Hint: Category
+      Type: Multilist with Search
+      Value: "{F0F862E3-60EE-4715-A69B-6818F5A947D1}"
+    - ID: "f5076ecf-6ba8-44e3-af0f-bdcc71331337"
+      Hint: Author
+      Type: Multilist with Search
+      Value: "{EEB932E9-D21F-4B8F-9262-58A21509F1DC}"

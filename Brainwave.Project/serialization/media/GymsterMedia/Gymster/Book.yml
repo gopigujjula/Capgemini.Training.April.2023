@@ -1,0 +1,18 @@
+﻿---
+ID: "6e945f95-d2fa-4afa-aee4-32de4ab1217e"
+Parent: "74a20655-2707-4bfa-9d58-52252a90b35b"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Gymster/Book
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190511T070826Z

@@ -1,0 +1,37 @@
+﻿---
+ID: "224b2735-bed8-4624-a84f-f1be0e86b4c6"
+Parent: "cc271abb-f742-4a7a-be02-86fcb4ad67bb"
+Template: "c77cbf36-e660-4c1a-ab94-85f172ca180a"
+Path: /sitecore/content/Gymster/Home/Books/2019/05/11/13/54/Mahaprasthanam
+DB: master
+SharedFields:
+- ID: "9dafca1d-d618-4616-86b8-a8acd6b28a63"
+  Hint: __Bucket Parent Reference
+  Value: "{6DDBC62A-F0AE-4816-A602-F65A963EEEA4}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "24d7a5d2-d2b3-4d52-927e-c6722f6587f4"
+    Hint: Title
+    Value: మహాప్రస్థానం
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190511T135430Z
+    - ID: "26fbf511-a5ec-4f33-8a49-21dfc6f78079"
+      Hint: Summary
+      Value: |
+        తెలుగులో వచన కవిత్వ ప్రారంభానికి బాటలు వేసింది శ్రీ శ్రీ రచించిన మహాప్రస్థానం. కేవలం ఈ ఒక్క పుస్తకంతోనే శ్రీ శ్రీ అనితర సాధ్యమైన కీర్తిని సంపాందించి, తెలుగు కవుల్లో మహా కవి కాగలిగాడు.
+        
+        మహాప్రస్థానం రచనతోనే శ్రీ శ్రీ తెలుగు సాహిత్య చరిత్రలో అభ్యుదయ కవిత్వోద్యమానికి దారులు వేసాడు. ఇందులోని కవితలన్నీ అభ్యుదయ కవితలు కాకపోయినా, అధికాంశం అభ్యుదయ కవితలే.
+    - ID: "434a9027-02c8-4852-8d34-6ed59c9309f8"
+      Hint: Description
+      Value: |
+        <p style="color: #000000; background-color: #ffffff; margin-right: 0px; margin-bottom: 15px; margin-left: 0px;">తెలుగులో వచన కవిత్వ ప్రారంభానికి బాటలు వేసింది శ్రీ శ్రీ రచించిన మహాప్రస్థానం. కేవలం ఈ ఒక్క పుస్తకంతోనే శ్రీ శ్రీ అనితర సాధ్యమైన కీర్తిని సంపాందించి, తెలుగు కవుల్లో మహా కవి కాగలిగాడు.</p>
+        <p style="color: #000000; background-color: #ffffff; margin: 0px 0px 15px;">మహాప్రస్థానం రచనతోనే శ్రీ శ్రీ తెలుగు సాహిత్య చరిత్రలో అభ్యుదయ కవిత్వోద్యమానికి దారులు వేసాడు. ఇందులోని కవితలన్నీ అభ్యుదయ కవితలు కాకపోయినా, అధికాంశం అభ్యుదయ కవితలే.</p>
+    - ID: "f5076ecf-6ba8-44e3-af0f-bdcc71331337"
+      Hint: Author
+      Type: Multilist with Search
+      Value: "{92C3DEE9-9AE1-4145-BA5C-A525B2D44EB5}"

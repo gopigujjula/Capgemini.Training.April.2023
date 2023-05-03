@@ -1,0 +1,147 @@
+﻿---
+ID: "0b1b61b6-3383-4f68-8ea8-6ae0999adaad"
+Parent: "9954bda0-e6d4-4083-a542-2ce91660c129"
+Template: "c77cbf36-e660-4c1a-ab94-85f172ca180a"
+Path: /sitecore/content/Gymster/Home/Books/2019/05/11/11/11/1984
+DB: master
+SharedFields:
+- ID: "9862ecb6-3e36-452d-8a0f-19272462e727"
+  Hint: Published Date
+  Value: 20131231T183000Z
+- ID: "9dafca1d-d618-4616-86b8-a8acd6b28a63"
+  Hint: __Bucket Parent Reference
+  Value: "{6DDBC62A-F0AE-4816-A602-F65A963EEEA4}"
+- ID: "c9283d9e-7c29-4419-9c28-5a5c8ff53e84"
+  Hint: __Bucketable
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Fields:
+  - ID: "24d7a5d2-d2b3-4d52-927e-c6722f6587f4"
+    Hint: Title
+    Value: 1984 Book
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "022c2c51-b009-4de6-a10c-1fcada6d681f"
+      Hint: Book Language TreelistEx
+      Type: TreelistEx
+      Value: |
+        {C638AED9-41AB-423C-8304-99BD649E6B15}
+        {A11ED60F-72E7-4774-A50F-E36C6FFE186D}
+    - ID: "18ebde06-3a15-4786-97a6-a88b23ceda0e"
+      Hint: ISBN 13
+      Value: "978-8172345143"
+    - ID: "2231b463-fb6c-4412-8f05-c7715ca9af3a"
+      Hint: Number of Pages
+      Value: 272
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190511T111148Z
+    - ID: "26fbf511-a5ec-4f33-8a49-21dfc6f78079"
+      Hint: Summary
+      Value: |
+        Regarded as a great instance of twentieth century English Literature, George Orwell’s Nineteen Eighty-Four was first published in the summer of 1949, and set in Oceania—one of the three intercontinental superstates.
+        
+        In this novel, Orwell presents a powerful critique of the times through the fictional global war among the super powers of Oceania that had divided the whole world. Orwell creates a convincing and haunting imaginary world steeped into political ravages and dis-organization. His masterful critique of the political structures of the times comes out through the life of Winston Smith, a man caught in the web of a dystopian future, and his covert affair with Julia, a woman he meets during his service at a Government post.
+        
+        Brilliantly woven with a genial Orwellian spark, this novel is a classic satirical take on the political and social structures of all times.
+    - ID: "36461b6b-ef53-47c0-97f7-5373de7f2bf3"
+      Hint: Book Language
+      Value: English
+    - ID: "434a9027-02c8-4852-8d34-6ed59c9309f8"
+      Hint: Description
+      Value: |
+        <p style="color: #333333; background-color: #ffffff; margin-right: 0px; margin-bottom: 14px; margin-left: 0px; padding: 0px;">Regarded as a great instance of twentieth century English Literature, George Orwell&rsquo;s Nineteen Eighty-Four was first published in the summer of 1949, and set in Oceania&mdash;one of the three intercontinental superstates.</p>
+        <p style="color: #333333; background-color: #ffffff; margin: -4px 0px 14px; padding: 0px;">In this novel, Orwell presents a powerful critique of the times through the fictional global war among the super powers of Oceania that had divided the whole world. Orwell creates a convincing and haunting imaginary world steeped into political ravages and dis-organization. His masterful critique of the political structures of the times comes out through the life of Winston Smith, a man caught in the web of a dystopian future, and his covert affair with Julia, a woman he meets during his service at a Government post.</p>
+        <p style="color: #333333; background-color: #ffffff; margin: -4px 0px 14px; padding: 0px;">Brilliantly woven with a genial Orwellian spark, this novel is a classic satirical take on the political and social structures of all times.</p>
+    - ID: "5f843adb-e7ee-472b-adb1-7385dc7636f1"
+      Hint: Publisher
+      Value: Fingerprint Publishing
+    - ID: "7329b758-505a-49b2-9890-7a12cd751431"
+      Hint: Front Cover
+      Value: |
+        <image mediaid="{DD03DD4E-813D-4CEA-A00C-0A807EC7EC5B}" />
+    - ID: "89957319-c5fa-4c80-9bc1-63f896e8ec60"
+      Hint: ISBN 10
+      Value: 8172345143
+    - ID: "d33ad0de-05c6-419e-a8a5-0b823defaea8"
+      Hint: Book Type
+      Value: "{E484086A-0A9F-4F62-98B6-EDC784585C01}"
+    - ID: "ec1d2eb7-f58e-458e-9bdd-2b579dde2953"
+      Hint: Price
+      Value: 88
+    - ID: "efd4d78b-1f8e-496a-a522-b4211903cc35"
+      Hint: Category
+      Type: Multilist with Search
+      Value: "{0F16E33F-C22A-41A6-B356-173695DC7330}"
+    - ID: "f5076ecf-6ba8-44e3-af0f-bdcc71331337"
+      Hint: Author
+      Type: Multilist with Search
+      Value: "{194B4426-A90C-41CF-82FB-2ED96ECFE791}"
+  - Version: 2
+    Fields:
+    - ID: "022c2c51-b009-4de6-a10c-1fcada6d681f"
+      Hint: Book Language TreelistEx
+      Type: TreelistEx
+      Value: |
+        {C638AED9-41AB-423C-8304-99BD649E6B15}
+        {A11ED60F-72E7-4774-A50F-E36C6FFE186D}
+    - ID: "18ebde06-3a15-4786-97a6-a88b23ceda0e"
+      Hint: ISBN 13
+      Value: "978-8172345143"
+    - ID: "2231b463-fb6c-4412-8f05-c7715ca9af3a"
+      Hint: Number of Pages
+      Value: 272
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200724T071831Z
+    - ID: "26fbf511-a5ec-4f33-8a49-21dfc6f78079"
+      Hint: Summary
+      Value: |
+        Regarded as a great instance of twentieth century English Literature, George Orwell’s Nineteen Eighty-Four was first published in the summer of 1949, and set in Oceania—one of the three intercontinental superstates.
+        
+        In this novel, Orwell presents a powerful critique of the times through the fictional global war among the super powers of Oceania that had divided the whole world. Orwell creates a convincing and haunting imaginary world steeped into political ravages. His masterful critique of the political structures of the times comes out through the life of Winston Smith, a man caught in the web of a dystopian future, and his covert affair with Julia, a woman he meets during his service at a Government post.
+        
+        Brilliantly woven with a genial Orwellian spark, this novel is a classic satirical take on the political and social structures of all times.
+    - ID: "36461b6b-ef53-47c0-97f7-5373de7f2bf3"
+      Hint: Book Language
+      Value: English
+    - ID: "434a9027-02c8-4852-8d34-6ed59c9309f8"
+      Hint: Description
+      Value: |
+        <p style="color: #333333; background-color: #ffffff; margin-right: 0px; margin-bottom: 14px; margin-left: 0px; padding: 0px;">Regarded as a great instance of twentieth century English Literature, George Orwell’s Nineteen Eighty-Four was first published in the summer of 1949, and set in Oceania—one of the three intercontinental superstates.
+        </p>
+        <p style="color: #333333; background-color: #ffffff; margin: -4px 0px 14px; padding: 0px;">In this novel, Orwell presents a powerful critique of the times through the fictional global war among the super powers of Oceania that had divided the whole world. Orwell creates a convincing and haunting imaginary world steeped into political ravages and dis-organization. His masterful critique of the political structures of the times comes out through the life of Winston Smith, a man caught in the web of a dystopian future, and his covert affair with Julia, a woman he meets during his service at a Government post.</p>
+        <p style="color: #333333; background-color: #ffffff; margin: -4px 0px 14px; padding: 0px;">Brilliantly woven with a genial <strong>Orwellian spark</strong>, this novel is a classic satirical take on the political and social structures of all times.</p>
+    - ID: "5f843adb-e7ee-472b-adb1-7385dc7636f1"
+      Hint: Publisher
+      Value: Fingerprint Publishing
+    - ID: "7329b758-505a-49b2-9890-7a12cd751431"
+      Hint: Front Cover
+      Value: |
+        <image mediaid="{DD03DD4E-813D-4CEA-A00C-0A807EC7EC5B}" />
+    - ID: "89957319-c5fa-4c80-9bc1-63f896e8ec60"
+      Hint: ISBN 10
+      Value: 8172345143
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200724T071831Z
+    - ID: "d33ad0de-05c6-419e-a8a5-0b823defaea8"
+      Hint: Book Type
+      Value: "{E484086A-0A9F-4F62-98B6-EDC784585C01}"
+    - ID: "ec1d2eb7-f58e-458e-9bdd-2b579dde2953"
+      Hint: Price
+      Value: 88
+    - ID: "efd4d78b-1f8e-496a-a522-b4211903cc35"
+      Hint: Category
+      Type: Multilist with Search
+      Value: "{0F16E33F-C22A-41A6-B356-173695DC7330}"
+    - ID: "f5076ecf-6ba8-44e3-af0f-bdcc71331337"
+      Hint: Author
+      Type: Multilist with Search
+      Value: |
+        {194B4426-A90C-41CF-82FB-2ED96ECFE791}
+        {8D41329A-8D63-40A4-A1DE-CDA4414711B2}
+        {B6859156-D5A2-4BB2-ACCB-9C7C75D10463}

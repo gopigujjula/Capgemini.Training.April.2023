@@ -1,0 +1,14 @@
+﻿---
+ID: "42bb6366-293d-4df4-96c8-58e9fb0f08f2"
+Parent: "69cd8ae6-12c5-4438-8f2f-3ca09fd09779"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Gymster/Base Template/_BookTaxonomy/Taxonomy
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190511T052817Z

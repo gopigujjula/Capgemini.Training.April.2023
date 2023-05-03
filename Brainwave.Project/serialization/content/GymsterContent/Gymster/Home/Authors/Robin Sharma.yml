@@ -1,0 +1,21 @@
+﻿---
+ID: "3b4ea186-f67b-47f0-a92d-d4bf9b432bce"
+Parent: "09692438-026c-4f10-84a8-42741ffef90a"
+Template: "2e7cb92b-8a6a-468e-bb55-b8aea2701ec5"
+Path: /sitecore/content/Gymster/Home/Authors/Robin Sharma
+DB: master
+SharedFields:
+- ID: "9dafca1d-d618-4616-86b8-a8acd6b28a63"
+  Hint: __Bucket Parent Reference
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190511T122127Z
+    - ID: "a1534ae8-1754-4c8f-b57b-476254571f5e"
+      Hint: First Name
+      Value: Robin Sharma

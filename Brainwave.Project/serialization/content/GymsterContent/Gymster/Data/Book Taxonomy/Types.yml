@@ -1,0 +1,18 @@
+﻿---
+ID: "07f558cb-3e3f-4c0f-b2ed-5c4a26d0db1d"
+Parent: "64d26f5c-68c2-49c2-a1b4-c43c2e87b6d0"
+Template: "42b95190-60ec-4575-b8b3-3753f2700264"
+Path: /sitecore/content/Gymster/Data/Book Taxonomy/Types
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190511T054330Z

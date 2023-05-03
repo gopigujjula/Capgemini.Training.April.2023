@@ -1,0 +1,17 @@
+﻿---
+ID: "94b9b6ab-9dce-4b39-8d57-9ea1c563c554"
+Parent: "45f597ad-afa9-41c9-9dd3-101162996b83"
+Template: "f09e9cb8-5fe1-4036-8d37-f810137cd30f"
+Path: /sitecore/content/Gymster/Data/Book Taxonomy/Categories/Leadership
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "24281b02-55b2-475a-b00a-6e3278ca0f6e"
+      Hint: Title
+      Value: Leadership
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190511T115740Z

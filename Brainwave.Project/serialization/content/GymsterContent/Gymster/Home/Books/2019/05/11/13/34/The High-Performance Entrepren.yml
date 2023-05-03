@@ -1,0 +1,67 @@
+﻿---
+ID: "5f03d349-095b-4dbe-bd2b-074c4bf2ed9e"
+Parent: "cc6a9dda-3bec-4c2d-8eea-58284425f2d9"
+Template: "c77cbf36-e660-4c1a-ab94-85f172ca180a"
+Path: "/sitecore/content/Gymster/Home/Books/2019/05/11/13/34/The High-Performance Entrepreneur"
+DB: master
+SharedFields:
+- ID: "9862ecb6-3e36-452d-8a0f-19272462e727"
+  Hint: Published Date
+  Value: 20080619T183000Z
+- ID: "9dafca1d-d618-4616-86b8-a8acd6b28a63"
+  Hint: __Bucket Parent Reference
+  Value: "{6DDBC62A-F0AE-4816-A602-F65A963EEEA4}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "24d7a5d2-d2b3-4d52-927e-c6722f6587f4"
+    Hint: Title
+    Value: "The High-Performance Entrepreneur"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "18ebde06-3a15-4786-97a6-a88b23ceda0e"
+      Hint: ISBN 13
+      Value: "978-0143064268"
+    - ID: "2231b463-fb6c-4412-8f05-c7715ca9af3a"
+      Hint: Number of Pages
+      Value: 256
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190511T133406Z
+    - ID: "26fbf511-a5ec-4f33-8a49-21dfc6f78079"
+      Hint: Summary
+      Value: "Highly readable, crisply writte inspirational reading for any new Indian entrepreneur’—Frontline Difficult though setting up a business is, becoming a high-performance entrepreneur is harder still. And yet, of the many thousands who try, there are those who go on to become successful; some even graduate to setting up companies that hold their own against the toughest competition, becoming icons of achievement. In The High-performance Entrepreneur, Subroto Bagchi, co-founder and chief operating officer of MindTree Consulting, draws upon his own highly successful experience to offer guidance from the idea stage to the IPO level. This includes how to decide when one is ready to launch an enterprise, selecting a team, defining the values and objectives of the company and writing the business plan to choosing the right investors, managing adversity and building the brand. Additionally, in an especially illuminating chapter, Bagchi recounts the systems and values which have made Indian IT companies on a par with the best in the world. High-performance entrepreneurs create great wealth, for themselves as well as for others. They provide jobs, crucial for an expanding workforce such as India’s, and drive innovation. In India as elsewhere, governments have become much more entrepreneur friendly than ever before and the rewards of being a successful entrepreneur are many. More than just a guide, this is a book that will tap the entrepreneurial energy within you."
+    - ID: "36461b6b-ef53-47c0-97f7-5373de7f2bf3"
+      Hint: Book Language
+      Value: English
+    - ID: "434a9027-02c8-4852-8d34-6ed59c9309f8"
+      Hint: Description
+      Value: |
+        <span style="background-color: #ffffff; color: #333333;">Highly readable, crisply writte inspirational reading for any new Indian entrepreneur&rsquo;&mdash;Frontline Difficult though setting up a business is, becoming a high-performance entrepreneur is harder still. And yet, of the many thousands who try, there are those who go on to become successful; some even graduate to setting up companies that hold their own against the toughest competition, becoming icons of achievement. In The High-performance Entrepreneur, Subroto Bagchi, co-founder and chief operating officer of MindTree Consulting, draws upon his own highly successful experience to offer guidance from the idea stage to the IPO level. This includes how to decide when one is ready to launch an enterprise, selecting a team, defining the values and objectives of the company and writing the business plan to choosing the right investors, managing adversity and building the brand. Additionally, in an especially illuminating chapter, Bagchi recounts the systems and values which have made Indian IT companies on a par with the best in the world. High-performance entrepreneurs create great wealth, for themselves as well as for others. They provide jobs, crucial for an expanding workforce such as India&rsquo;s, and drive innovation. In India as elsewhere, governments have become much more entrepreneur friendly than ever before and the rewards of being a successful entrepreneur are many. More than just a guide, this is a book that will tap the entrepreneurial energy within you.</span>
+    - ID: "5f843adb-e7ee-472b-adb1-7385dc7636f1"
+      Hint: Publisher
+      Value: Penguin India
+    - ID: "7329b758-505a-49b2-9890-7a12cd751431"
+      Hint: Front Cover
+      Value: |
+        <image mediaid="{CA489FE3-96CD-4304-8A35-B291EFF15A4E}" />
+    - ID: "89957319-c5fa-4c80-9bc1-63f896e8ec60"
+      Hint: ISBN 10
+      Value: 0143064266
+    - ID: "d33ad0de-05c6-419e-a8a5-0b823defaea8"
+      Hint: Book Type
+      Value: "{6CD31934-288E-4C62-AF3B-0D05F0ABF082}"
+    - ID: "ec1d2eb7-f58e-458e-9bdd-2b579dde2953"
+      Hint: Price
+      Value: 350
+    - ID: "efd4d78b-1f8e-496a-a522-b4211903cc35"
+      Hint: Category
+      Type: Multilist with Search
+      Value: |
+        {64F46553-25F9-47BE-BBB9-1B53DAAAE8EC}
+        {26090AF4-C099-4765-8C95-D8FF258CDBA2}
+    - ID: "f5076ecf-6ba8-44e3-af0f-bdcc71331337"
+      Hint: Author
+      Type: Multilist with Search
+      Value: "{B893E96E-474E-47F1-9689-467342BAA425}"

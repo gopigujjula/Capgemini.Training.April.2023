@@ -1,0 +1,13 @@
+@using Sitecore.ContentSearch.SearchTypes;
+@model List<SearchResultItem>
+
+@if (Model != null && Model.Count > 0)
+{
+    foreach (var item in Model)
+    {
+        <a href="@Sitecore.Links.LinkManager.GetItemUrl(item.GetItem())">
+            @item.Name
+        </a>
+        <hr />
+    }
+}

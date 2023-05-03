@@ -1,0 +1,25 @@
+﻿---
+ID: "faf377de-0a06-4780-9d90-94ec8a340867"
+Parent: "09692438-026c-4f10-84a8-42741ffef90a"
+Template: "2e7cb92b-8a6a-468e-bb55-b8aea2701ec5"
+Path: /sitecore/content/Gymster/Home/Authors/Arun Tiwari
+DB: master
+SharedFields:
+- ID: "9dafca1d-d618-4616-86b8-a8acd6b28a63"
+  Hint: __Bucket Parent Reference
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190511T074016Z
+    - ID: "4d74009b-f75d-4913-8ad2-6c6bcdeb5ecb"
+      Hint: Biography
+      Value: |
+        <span style="background-color: #ffffff; color: #333333;">Arun Tiwari rose to fame as an author with his book Wings of Fire, which he co-authored with Dr. A.P.J. Abdul Kalam. He's a missile scientist who worked under the guidance of Kalam. Tiwari contributed to the design of the missiles, Akash and Trishul and is the first Indian who designed a titanium bottle to power missiles. Apart from this, Tiwari has been the director at the Cardiovascular Technology Institute in Hyderabad. He received the Defense Technology Spin-Off Award for developing the Kalam-Raju stent.</span>
+    - ID: "a1534ae8-1754-4c8f-b57b-476254571f5e"
+      Hint: First Name
+      Value: Arun Tiwari

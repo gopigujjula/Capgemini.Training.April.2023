@@ -1,0 +1,65 @@
+﻿---
+ID: "e1383149-c3b2-4415-9dfa-42e799886b4f"
+Parent: "33c391c9-f446-4d64-b02a-26c0ee383663"
+Template: "c77cbf36-e660-4c1a-ab94-85f172ca180a"
+Path: /sitecore/content/Gymster/Home/Books/2019/05/11/07/43/Turning Points
+DB: master
+SharedFields:
+- ID: "9862ecb6-3e36-452d-8a0f-19272462e727"
+  Hint: Published Date
+  Value: 20141123T183000Z
+- ID: "9dafca1d-d618-4616-86b8-a8acd6b28a63"
+  Hint: __Bucket Parent Reference
+  Value: "{6DDBC62A-F0AE-4816-A602-F65A963EEEA4}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "24d7a5d2-d2b3-4d52-927e-c6722f6587f4"
+    Hint: Title
+    Value: "Turning Points : A Journey Through Challanges: A Journey Through Challenges"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "18ebde06-3a15-4786-97a6-a88b23ceda0e"
+      Hint: ISBN 13
+      Value: "978-9350293478"
+    - ID: "2231b463-fb6c-4412-8f05-c7715ca9af3a"
+      Hint: Number of Pages
+      Value: 192
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190511T074340Z
+    - ID: "26fbf511-a5ec-4f33-8a49-21dfc6f78079"
+      Hint: Summary
+      Value: "It was like any other day on the Anna University campus in Chennai. I had delivered a lecture 'Vision to Mission' and the session got extended from one hour to two. I had lunch with a group of research students and went back to class. As I was returning to my rooms in the evening the vice-chancellor, Prof. A. Kalanidhi, fell in step with me. Someone had been frantically trying to get in touch with me through the day, he said. Indeed, the phone was ringing when I entered the room. When I answered, a voice at the other end said, 'The prime minister wants to talk with you ...' Some months earlier, I had left my post as principal scientific adviser to the government of India, a Cabinet-level post, to return to teaching. Now, as I spoke to the PM, Atal Bihari Vajpayee, my life was set for an unexpected change. Turning Points takes up the incredible Kalam story from where Wings of Fire left off. It brings together details from his career and presidency that are not generally known as he speaks out for the first time on certain points of controversy. It offers insight not only into an extraordinary personality but also a vision of how a country with a great heritage can become great in accomplishment, skills and abilities through effort, perseverance and confidence. It is a continuing saga, above all, of a journey, individual and collective, that will take India to 2020 and beyond as a developed nation."
+    - ID: "36461b6b-ef53-47c0-97f7-5373de7f2bf3"
+      Hint: Book Language
+      Value: English
+    - ID: "434a9027-02c8-4852-8d34-6ed59c9309f8"
+      Hint: Description
+      Value: |
+        <span style="background-color: #ffffff; color: #333333;">It was like any other day on the Anna University campus in Chennai. I had delivered a lecture 'Vision to Mission' and the session got extended from one hour to two. I had lunch with a group of research students and went back to class. As I was returning to my rooms in the evening the vice-chancellor, Prof. A. Kalanidhi, fell in step with me. Someone had been frantically trying to get in touch with me through the day, he said. Indeed, the phone was ringing when I entered the room. When I answered, a voice at the other end said, 'The prime minister wants to talk with you ...' Some months earlier, I had left my post as principal scientific adviser to the government of India, a Cabinet-level post, to return to teaching. Now, as I spoke to the PM, Atal Bihari Vajpayee, my life was set for an unexpected change. Turning Points takes up the incredible Kalam story from where Wings of Fire left off. It brings together details from his career and presidency that are not generally known as he speaks out for the first time on certain points of controversy. It offers insight not only into an extraordinary personality but also a vision of how a country with a great heritage can become great in accomplishment, skills and abilities through effort, perseverance and confidence. It is a continuing saga, above all, of a journey, individual and collective, that will take India to 2020 and beyond as a developed nation.</span>
+    - ID: "5f843adb-e7ee-472b-adb1-7385dc7636f1"
+      Hint: Publisher
+      Value: Harpercollins
+    - ID: "7329b758-505a-49b2-9890-7a12cd751431"
+      Hint: Front Cover
+      Value: |
+        <image mediaid="{A0A5FA90-F83E-4EA4-BC42-A8BF55914F85}" />
+    - ID: "89957319-c5fa-4c80-9bc1-63f896e8ec60"
+      Hint: ISBN 10
+      Value: 9350293471
+    - ID: "d33ad0de-05c6-419e-a8a5-0b823defaea8"
+      Hint: Book Type
+      Value: "{E484086A-0A9F-4F62-98B6-EDC784585C01}"
+    - ID: "ec1d2eb7-f58e-458e-9bdd-2b579dde2953"
+      Hint: Price
+      Value: 130
+    - ID: "efd4d78b-1f8e-496a-a522-b4211903cc35"
+      Hint: Category
+      Type: Multilist with Search
+      Value: "{E4D607FE-137E-4B94-8CD0-3F91B47E075E}"
+    - ID: "f5076ecf-6ba8-44e3-af0f-bdcc71331337"
+      Hint: Author
+      Type: Multilist with Search
+      Value: "{491E9C9D-4C77-4105-906B-7D9CE53154AA}"

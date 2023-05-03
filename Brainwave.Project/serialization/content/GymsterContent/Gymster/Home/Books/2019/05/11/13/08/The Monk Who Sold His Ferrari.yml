@@ -1,0 +1,78 @@
+﻿---
+ID: "4612f07a-ceaf-4759-ab26-6e91b5a7cabf"
+Parent: "3146d2bc-8f2d-46d0-aac9-956c37c71c33"
+Template: "c77cbf36-e660-4c1a-ab94-85f172ca180a"
+Path: /sitecore/content/Gymster/Home/Books/2019/05/11/13/08/The Monk Who Sold His Ferrari
+DB: master
+SharedFields:
+- ID: "9862ecb6-3e36-452d-8a0f-19272462e727"
+  Hint: Published Date
+  Value: 20030924T183000Z
+- ID: "9dafca1d-d618-4616-86b8-a8acd6b28a63"
+  Hint: __Bucket Parent Reference
+  Value: "{6DDBC62A-F0AE-4816-A602-F65A963EEEA4}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "24d7a5d2-d2b3-4d52-927e-c6722f6587f4"
+    Hint: Title
+    Value: The Monk Who Sold His Ferrari
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "18ebde06-3a15-4786-97a6-a88b23ceda0e"
+      Hint: ISBN 13
+      Value: "978-8179921623"
+    - ID: "2231b463-fb6c-4412-8f05-c7715ca9af3a"
+      Hint: Number of Pages
+      Value: 198
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190511T130818Z
+    - ID: "26fbf511-a5ec-4f33-8a49-21dfc6f78079"
+      Hint: Summary
+      Value: |
+        A renowned inspirational fiction, The Monk Who Sold His Ferrari is a revealing story that offers the readers a simple yet profound way to live life. The plot of this story revolves around Julian Mantle, a lawyer who has made his fortune and name in the profession. A sudden heart-attack creates havoc in the successful lawyer’s life. Jolted by the sudden onset of the illness, his practice comes to a standstill. He ponders over material success being worth it all, renounces all of it and leaves for India.
+        
+        A visit to India about a spiritual awakening that opens up new vistas and Julian begins to view life in a different perspective. He decides to live his life once again but in a way that is much more fulfilling and meaningful than before.
+        
+        In the book, the reader goes through a spiritual journey and into a very old culture that has gathered much wisdom over the millennia. The book advocates about how to live happily, think deep and rightly, value time and relationships, be more disciplined, follow the heart’s call and live every moment of the life.
+        
+        Written in simple words, the book has turned out to be a bestseller and is more than just an endearing story. Through storytelling, Robin Sharma showcases the miracles and wonders of living a fulfilling life. In the process, the book introduces readers to enlightening yet simple principles that vouch to make life better, happier and more meaningful.
+        
+        A bestselling novel, what readers all over the globe appreciate about this book is its deft amalgam of the philosophies from both western and eastern worlds. The book has been followed by important personalities around the world.
+    - ID: "36461b6b-ef53-47c0-97f7-5373de7f2bf3"
+      Hint: Book Language
+      Value: English
+    - ID: "434a9027-02c8-4852-8d34-6ed59c9309f8"
+      Hint: Description
+      Value: |
+        <p style="color: #333333; background-color: #ffffff; margin-right: 0px; margin-bottom: 14px; margin-left: 0px; padding: 0px;">A renowned inspirational fiction, The Monk Who Sold His Ferrari is a revealing story that offers the readers a simple yet profound way to live life. The plot of this story revolves around Julian Mantle, a lawyer who has made his fortune and name in the profession. A sudden heart-attack creates havoc in the successful lawyer&rsquo;s life. Jolted by the sudden onset of the illness, his practice comes to a standstill. He ponders over material success being worth it all, renounces all of it and leaves for India.</p>
+        <p style="color: #333333; background-color: #ffffff; margin: -4px 0px 14px; padding: 0px;">A visit to India about a spiritual awakening that opens up new vistas and Julian begins to view life in a different perspective. He decides to live his life once again but in a way that is much more fulfilling and meaningful than before.</p>
+        <p style="color: #333333; background-color: #ffffff; margin: -4px 0px 14px; padding: 0px;">In the book, the reader goes through a spiritual journey and into a very old culture that has gathered much wisdom over the millennia. The book advocates about how to live happily, think deep and rightly, value time and relationships, be more disciplined, follow the heart&rsquo;s call and live every moment of the life.</p>
+        <p style="color: #333333; background-color: #ffffff; margin: -4px 0px 14px; padding: 0px;">Written in simple words, the book has turned out to be a bestseller and is more than just an endearing story. Through storytelling, Robin Sharma showcases the miracles and wonders of living a fulfilling life. In the process, the book introduces readers to enlightening yet simple principles that vouch to make life better, happier and more meaningful.</p>
+        <p style="color: #333333; background-color: #ffffff; margin: -4px 0px 14px; padding: 0px;">A bestselling novel, what readers all over the globe appreciate about this book is its deft amalgam of the philosophies from both western and eastern worlds. The book has been followed by important personalities around the world.</p>
+    - ID: "5f843adb-e7ee-472b-adb1-7385dc7636f1"
+      Hint: Publisher
+      Value: Jaico Publishing House
+    - ID: "7329b758-505a-49b2-9890-7a12cd751431"
+      Hint: Front Cover
+      Value: |
+        <image mediaid="{CB2F4AA7-201E-4C59-AF30-91E469A4F96A}" />
+    - ID: "89957319-c5fa-4c80-9bc1-63f896e8ec60"
+      Hint: ISBN 10
+      Value: 817992162X
+    - ID: "d33ad0de-05c6-419e-a8a5-0b823defaea8"
+      Hint: Book Type
+      Value: "{E484086A-0A9F-4F62-98B6-EDC784585C01}"
+    - ID: "ec1d2eb7-f58e-458e-9bdd-2b579dde2953"
+      Hint: Price
+      Value: 225
+    - ID: "efd4d78b-1f8e-496a-a522-b4211903cc35"
+      Hint: Category
+      Type: Multilist with Search
+      Value: "{26090AF4-C099-4765-8C95-D8FF258CDBA2}"
+    - ID: "f5076ecf-6ba8-44e3-af0f-bdcc71331337"
+      Hint: Author
+      Type: Multilist with Search
+      Value: "{3B4EA186-F67B-47F0-A92D-D4BF9B432BCE}"

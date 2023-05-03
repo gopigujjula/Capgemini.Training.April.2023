@@ -1,0 +1,17 @@
+﻿---
+ID: "5a72cbce-761a-4d57-bbe8-d0e86728f75d"
+Parent: "45f597ad-afa9-41c9-9dd3-101162996b83"
+Template: "f09e9cb8-5fe1-4036-8d37-f810137cd30f"
+Path: /sitecore/content/Gymster/Data/Book Taxonomy/Categories/Poetry
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "24281b02-55b2-475a-b00a-6e3278ca0f6e"
+      Hint: Title
+      Value: Poetry
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190511T115054Z

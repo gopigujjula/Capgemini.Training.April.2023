@@ -1,0 +1,76 @@
+﻿---
+ID: "40b0a8f4-ee9c-41fe-8dfe-163d7d21c3ed"
+Parent: "44049db7-75a5-4d84-9132-7c7113681603"
+Template: "c77cbf36-e660-4c1a-ab94-85f172ca180a"
+Path: /sitecore/content/Gymster/Home/Books/2019/05/11/11/09/Antifragile
+DB: master
+SharedFields:
+- ID: "9862ecb6-3e36-452d-8a0f-19272462e727"
+  Hint: Published Date
+  Value: 20130605T183000Z
+- ID: "9dafca1d-d618-4616-86b8-a8acd6b28a63"
+  Hint: __Bucket Parent Reference
+  Value: "{6DDBC62A-F0AE-4816-A602-F65A963EEEA4}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "24d7a5d2-d2b3-4d52-927e-c6722f6587f4"
+    Hint: Title
+    Value: "Antifragile: Things that Gain from Disorder"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "18ebde06-3a15-4786-97a6-a88b23ceda0e"
+      Hint: ISBN 13
+      Value: "978-0141038223"
+    - ID: "2231b463-fb6c-4412-8f05-c7715ca9af3a"
+      Hint: Number of Pages
+      Value: 544
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190511T110923Z
+    - ID: "26fbf511-a5ec-4f33-8a49-21dfc6f78079"
+      Hint: Summary
+      Value: |
+        Tough times don't last. Tough people do.
+        
+        In The Black Swan, Taleb showed us that highly improbable and unpredictable events underlie almost everything about our world. Here Taleb stands uncer­tainty on its head, making it desirable, even necessary. The antifragile is beyond the resilient or robust. The resil­ient resists shocks and stays the same; the antifragile gets better and better.
+        
+        Just as human bones get stronger when subjected to stress and tension, many things in life benefit from stress, disorder, volatility, and turmoil. What Taleb has identified and calls antifragile are things that not only gain from chaos but need it in order to survive and flourish.
+        
+        Antifragile is a blueprint for living in a Black Swan world. Erudite, witty, and iconoclastic, Taleb's message is revolutionary: the antifragile, and only the antifragile, will make it.
+    - ID: "36461b6b-ef53-47c0-97f7-5373de7f2bf3"
+      Hint: Book Language
+      Value: English
+    - ID: "434a9027-02c8-4852-8d34-6ed59c9309f8"
+      Hint: Description
+      Value: |
+        <p style="color: #333333; background-color: #ffffff; margin: -4px 0px 14px; padding: 0px;">Tough times don't last. Tough people do.</p>
+        <p style="color: #333333; background-color: #ffffff; margin: -4px 0px 14px; padding: 0px;">In&nbsp;<em>The Black Swan,&nbsp;</em>Taleb showed us that highly improbable and unpredictable events underlie almost everything about our world. Here Taleb stands uncer­tainty on its head, making it desirable, even necessary. The antifragile is beyond the resilient or robust. The resil­ient resists shocks and stays the same; the antifragile gets better and better.</p>
+        <p style="color: #333333; background-color: #ffffff; margin: -4px 0px 14px; padding: 0px;">Just as human bones get stronger when subjected to stress and tension, many things in life benefit from stress, disorder, volatility, and turmoil. What Taleb has identified and calls antifragile are things that not only gain from chaos but need it in order to survive and flourish.<br />
+        <br />
+        <em>Antifragile&nbsp;</em>is a blueprint for living in a Black Swan world. Erudite, witty, and iconoclastic, Taleb's message is revolutionary: the antifragile, and only the antifragile, will make it.</p>
+    - ID: "5f843adb-e7ee-472b-adb1-7385dc7636f1"
+      Hint: Publisher
+      Value: Penguin
+    - ID: "7329b758-505a-49b2-9890-7a12cd751431"
+      Hint: Front Cover
+      Value: |
+        <image mediaid="{B30C7DF2-0A80-4F35-8147-1B715BDF854F}" />
+    - ID: "89957319-c5fa-4c80-9bc1-63f896e8ec60"
+      Hint: ISBN 10
+      Value: 0141038225
+    - ID: "d33ad0de-05c6-419e-a8a5-0b823defaea8"
+      Hint: Book Type
+      Value: "{E484086A-0A9F-4F62-98B6-EDC784585C01}"
+    - ID: "ec1d2eb7-f58e-458e-9bdd-2b579dde2953"
+      Hint: Price
+      Value: 339
+    - ID: "efd4d78b-1f8e-496a-a522-b4211903cc35"
+      Hint: Category
+      Type: Multilist with Search
+      Value: "{F0F862E3-60EE-4715-A69B-6818F5A947D1}"
+    - ID: "f5076ecf-6ba8-44e3-af0f-bdcc71331337"
+      Hint: Author
+      Type: Multilist with Search
+      Value: "{84228359-0FC2-4540-867C-CB083970E49C}"

@@ -1,0 +1,25 @@
+﻿---
+ID: "f7bb52b5-e339-41f2-b1c9-64fec863b469"
+Parent: "09692438-026c-4f10-84a8-42741ffef90a"
+Template: "2e7cb92b-8a6a-468e-bb55-b8aea2701ec5"
+Path: /sitecore/content/Gymster/Home/Authors/Chris Guillebeau
+DB: master
+SharedFields:
+- ID: "9dafca1d-d618-4616-86b8-a8acd6b28a63"
+  Hint: __Bucket Parent Reference
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190511T115417Z
+    - ID: "4d74009b-f75d-4913-8ad2-6c6bcdeb5ecb"
+      Hint: Biography
+      Value: |
+        <span style="background-color: #ffffff; color: #333333;">Chris Guillebeau is a writer, entrepreneur, and traveler. During a lifetime of self-employment and ventures ranging from online publishing to volunteer work in West Africa, he has visited nearly every country on earth before the age of 35. Host of the World Domination Summit, an international gathering of creative people, Chris is focused on encouraging individuals to live fulfilling lives with inspiring and practical advice and his website is visited by more than 300,000 people a month.</span>
+    - ID: "a1534ae8-1754-4c8f-b57b-476254571f5e"
+      Hint: First Name
+      Value: Chris Guillebeau

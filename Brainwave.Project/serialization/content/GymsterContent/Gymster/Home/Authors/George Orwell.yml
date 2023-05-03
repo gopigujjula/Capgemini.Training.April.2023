@@ -1,0 +1,25 @@
+﻿---
+ID: "194b4426-a90c-41cf-82fb-2ed96ecfe791"
+Parent: "09692438-026c-4f10-84a8-42741ffef90a"
+Template: "2e7cb92b-8a6a-468e-bb55-b8aea2701ec5"
+Path: /sitecore/content/Gymster/Home/Authors/George Orwell
+DB: master
+SharedFields:
+- ID: "9dafca1d-d618-4616-86b8-a8acd6b28a63"
+  Hint: __Bucket Parent Reference
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190511T110107Z
+    - ID: "4d74009b-f75d-4913-8ad2-6c6bcdeb5ecb"
+      Hint: Biography
+      Value: |
+        <span style="background-color: #ffffff; color: #333333;">George Orwell, born as Eric Arthur Blair on June 25, 1903 in Bihar, India was a much-respected English novelist, political author and journalist who wrote some of the finest pieces in literary criticism, poetry, fiction and polemical journalism. Orwell's work is known for its simplicity, astuteness and wit, he wrote with great cleverness on subjects such as anti-fascism, democratic socialism, totalitarianism and the anti-Stalinist left. His best works include Animal Farm, Nineteen Eighty Four and Homage to Catalonia. Orwell died at the age of Forty-Six in 1950.</span>
+    - ID: "a1534ae8-1754-4c8f-b57b-476254571f5e"
+      Hint: First Name
+      Value: George Orwell

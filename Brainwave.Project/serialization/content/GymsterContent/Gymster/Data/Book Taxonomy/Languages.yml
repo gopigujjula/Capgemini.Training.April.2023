@@ -1,0 +1,14 @@
+﻿---
+ID: "d9a0ef6d-d2e2-466d-b67a-f512c01b225a"
+Parent: "64d26f5c-68c2-49c2-a1b4-c43c2e87b6d0"
+Template: "42b95190-60ec-4575-b8b3-3753f2700264"
+Path: /sitecore/content/Gymster/Data/Book Taxonomy/Languages
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190511T055344Z

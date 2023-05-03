@@ -1,0 +1,25 @@
+﻿---
+ID: "a4475661-4fcd-4e63-bc6c-6423a42a40de"
+Parent: "42b95190-60ec-4575-b8b3-3753f2700264"
+Template: "42b95190-60ec-4575-b8b3-3753f2700264"
+Path: /sitecore/templates/Gymster/Folder Templates/Book Taxonomy Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {F09E9CB8-5FE1-4036-8D37-F810137CD30F}
+    {42B95190-60EC-4575-B8B3-3753F2700264}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190511T052920Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

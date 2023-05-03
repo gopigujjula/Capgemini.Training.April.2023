@@ -1,0 +1,27 @@
+﻿---
+ID: "2e7cb92b-8a6a-468e-bb55-b8aea2701ec5"
+Parent: "947992aa-1443-4eb8-8604-6eff6ec11714"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Gymster/Page Templates/Author
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/businessperson.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Type: tree list
+  Value: |
+    {1930BBEB-7805-471A-A3BE-4858AC7CF696}
+    {987BCB4C-B7AC-4988-9993-AFAD8C7D5F11}
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{4B73CEDC-9268-4AC0-B8DB-C59288DA235C}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190511T051856Z

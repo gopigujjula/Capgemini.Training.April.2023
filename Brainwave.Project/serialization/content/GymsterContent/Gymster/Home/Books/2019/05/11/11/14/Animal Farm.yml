@@ -1,0 +1,65 @@
+﻿---
+ID: "bef455ca-37ef-4e9c-bb3e-d9891e86ee97"
+Parent: "9c54ab3b-24c5-4a37-ad6e-af21a4af8a90"
+Template: "c77cbf36-e660-4c1a-ab94-85f172ca180a"
+Path: /sitecore/content/Gymster/Home/Books/2019/05/11/11/14/Animal Farm
+DB: master
+SharedFields:
+- ID: "9862ecb6-3e36-452d-8a0f-19272462e727"
+  Hint: Published Date
+  Value: 19441231T183000Z
+- ID: "9dafca1d-d618-4616-86b8-a8acd6b28a63"
+  Hint: __Bucket Parent Reference
+  Value: "{6DDBC62A-F0AE-4816-A602-F65A963EEEA4}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "24d7a5d2-d2b3-4d52-927e-c6722f6587f4"
+    Hint: Title
+    Value: Animal Farm
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "18ebde06-3a15-4786-97a6-a88b23ceda0e"
+      Hint: ISBN 13
+      Value: "978-8193387641"
+    - ID: "2231b463-fb6c-4412-8f05-c7715ca9af3a"
+      Hint: Number of Pages
+      Value: 88
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190511T111413Z
+    - ID: "26fbf511-a5ec-4f33-8a49-21dfc6f78079"
+      Hint: Summary
+      Value: "When the oppressed animals of Manor Farm defeat their master, Mr. Jones and take over the farm for themselves, they envisage it to be the beginning of independence and abundance. However, a devious and heartless elite among the animals starts to take control and the other animals find themselves helplessly trapped as another gradually replaces one form of dictatorship. Orwell’s frightening ‘fairy story’ is a timeless and overwhelming satire of idealism deceived by power and corruption. Although, it almost remained unpublished due to its savage attack on Stalin, Britain’s then ally and got turned down by publisher after publisher, today it’s known to be one of Orwell’s best works and a world-famous classic."
+    - ID: "36461b6b-ef53-47c0-97f7-5373de7f2bf3"
+      Hint: Book Language
+      Value: English
+    - ID: "434a9027-02c8-4852-8d34-6ed59c9309f8"
+      Hint: Description
+      Value: |
+        <span style="background-color: #ffffff; color: #333333;">When the oppressed animals of Manor Farm defeat their master, Mr. Jones and take over the farm for themselves, they envisage it to be the beginning of independence and abundance. However, a devious and heartless elite among the animals starts to take control and the other animals find themselves helplessly trapped as another gradually replaces one form of dictatorship. Orwell&rsquo;s frightening &lsquo;fairy story&rsquo; is a timeless and overwhelming satire of idealism deceived by power and corruption. Although, it almost remained unpublished due to its savage attack on Stalin, Britain&rsquo;s then ally and got turned down by publisher after publisher, today it&rsquo;s known to be one of Orwell&rsquo;s best works and a world-famous classic.</span>
+    - ID: "5f843adb-e7ee-472b-adb1-7385dc7636f1"
+      Hint: Publisher
+      Value: Amazing Reads
+    - ID: "7329b758-505a-49b2-9890-7a12cd751431"
+      Hint: Front Cover
+      Value: |
+        <image mediaid="{AE3529C0-A6BF-4D86-8D3D-9D692B421195}" />
+    - ID: "89957319-c5fa-4c80-9bc1-63f896e8ec60"
+      Hint: ISBN 10
+      Value: 8193387643
+    - ID: "d33ad0de-05c6-419e-a8a5-0b823defaea8"
+      Hint: Book Type
+      Value: "{E484086A-0A9F-4F62-98B6-EDC784585C01}"
+    - ID: "ec1d2eb7-f58e-458e-9bdd-2b579dde2953"
+      Hint: Price
+      Value: 43
+    - ID: "efd4d78b-1f8e-496a-a522-b4211903cc35"
+      Hint: Category
+      Type: Multilist with Search
+      Value: "{0F16E33F-C22A-41A6-B356-173695DC7330}"
+    - ID: "f5076ecf-6ba8-44e3-af0f-bdcc71331337"
+      Hint: Author
+      Type: Multilist with Search
+      Value: "{194B4426-A90C-41CF-82FB-2ED96ECFE791}"

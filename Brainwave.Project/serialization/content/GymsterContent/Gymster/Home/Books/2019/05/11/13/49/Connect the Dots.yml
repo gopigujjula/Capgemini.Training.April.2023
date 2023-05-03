@@ -1,0 +1,107 @@
+﻿---
+ID: "b9cdb207-7624-4b84-82d9-a48a996adb54"
+Parent: "bdf952b7-71f6-49aa-8603-9b55be141dd5"
+Template: "c77cbf36-e660-4c1a-ab94-85f172ca180a"
+Path: /sitecore/content/Gymster/Home/Books/2019/05/11/13/49/Connect the Dots
+DB: master
+SharedFields:
+- ID: "9862ecb6-3e36-452d-8a0f-19272462e727"
+  Hint: Published Date
+  Value: 20120704T183000Z
+- ID: "9dafca1d-d618-4616-86b8-a8acd6b28a63"
+  Hint: __Bucket Parent Reference
+  Value: "{6DDBC62A-F0AE-4816-A602-F65A963EEEA4}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "24d7a5d2-d2b3-4d52-927e-c6722f6587f4"
+    Hint: Title
+    Value: Connect the Dots
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "18ebde06-3a15-4786-97a6-a88b23ceda0e"
+      Hint: ISBN 13
+      Value: "978-9381626702"
+    - ID: "2231b463-fb6c-4412-8f05-c7715ca9af3a"
+      Hint: Number of Pages
+      Value: 368
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190511T134904Z
+    - ID: "26fbf511-a5ec-4f33-8a49-21dfc6f78079"
+      Hint: Summary
+      Value: |
+        onnect the Dots is a collection of inspiring stories that urge the readers to dream big, irrespective of their qualifications. Armed with a desire to prove oneself and a passion for the right cause, anyone can realize their dreams. Beginning with a snippet of the author's life and her unexpected journey, Rashmi Bansal stresses on creating lots of dots on the canvas called life and connecting them right to get a meaningful picture.
+        
+        The book is divided in three sections, Jugaad, Junoon and Zubaan. Jugaad narrates the stories of those entrepreneurs who have had no formal training and who have learnt and gained success by observing and experimenting. The tales in the Junoon section are the stories of those driven by their passion and dreams. The last section, Zubaan, reveals the entrepreneurship skills of highly creative minds.
+        
+        From Su-kam, Crossword, Dosa Plaza, Reva Cars to Veta, Prince Dance Group and Trikaya Agriculture, the book reveals the untold stories of these popular and successful business enterprises, which thrived because of their drive to succeed. Connect The Dots narrates the stories of lesser known yet highly successful individuals like Abhijit Bansod, Kalyan Varma, Prem Ganapathy, N. Mahadevan, Ranjiv Ramchandani, Suresh Kamath, and Raghu Khanna.
+        
+        The book includes stories like To Sir With Love, The Inventor, Food For Thought, Karma Company, Kitabi Keeda, King of Pop, Far from The Madding Crowd, Paper Tiger, Truth Shall Prevail, and Call of the Wild.
+        
+        The book employs a colloquial and conversational tone. Since its publication in 2010, Connect The Dots has been a bestseller, and has sold more than 100,000 copies. The book was nominated for The Economist Crossword 
+    - ID: "36461b6b-ef53-47c0-97f7-5373de7f2bf3"
+      Hint: Book Language
+      Value: English
+    - ID: "434a9027-02c8-4852-8d34-6ed59c9309f8"
+      Hint: Description
+      Value: |
+        <p style="color: #212121; background-color: #ffffff; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px;"><em style="margin: 0px; padding: 0px;">onnect the Dots</em>&nbsp;is a collection of inspiring stories that urge the readers to dream big, irrespective of their qualifications. Armed with a desire to prove oneself and a passion for the right cause, anyone can realize their dreams. Beginning with a snippet of the author's life and her unexpected journey, Rashmi Bansal stresses on creating lots of dots on the canvas called life and connecting them right to get a meaningful picture.</p>
+        <p style="color: #212121; background-color: #ffffff; margin: 0px; padding: 0px;">The book is divided in three sections, Jugaad, Junoon and Zubaan. Jugaad narrates the stories of those entrepreneurs who have had no formal training and who have learnt and gained success by observing and experimenting. The tales in the Junoon section are the stories of those driven by their passion and dreams. The last section, Zubaan, reveals the entrepreneurship skills of highly creative minds.</p>
+        <p style="color: #212121; background-color: #ffffff; margin: 0px; padding: 0px;">From Su-kam, Crossword, Dosa Plaza, Reva Cars to Veta, Prince Dance Group and Trikaya Agriculture, the book reveals the untold stories of these popular and successful business enterprises, which thrived because of their drive to succeed.&nbsp;<em style="margin: 0px; padding: 0px;">Connect The Dots&nbsp;</em>narrates the stories of lesser known yet highly successful individuals like Abhijit Bansod, Kalyan Varma, Prem Ganapathy, N. Mahadevan, Ranjiv Ramchandani, Suresh Kamath, and Raghu Khanna.</p>
+        <p style="color: #212121; background-color: #ffffff; margin: 0px; padding: 0px;">The book includes stories like To Sir With Love, The Inventor, Food For Thought, Karma Company, Kitabi Keeda, King of Pop, Far from The Madding Crowd, Paper Tiger, Truth Shall Prevail, and Call of the Wild.</p>
+        <p style="color: #212121; background-color: #ffffff; margin-top: 0px; margin-right: 0px; margin-left: 0px; padding: 0px;">The book employs a colloquial and conversational tone. Since its publication in 2010,&nbsp;<em style="margin: 0px; padding: 0px;">Connect The Dots</em>&nbsp;has been a bestseller, and has sold more than 100,000 copies. The book was nominated for The Economist Crossword&nbsp;</p>
+    - ID: "451f3f04-5146-463d-821f-9d563a7d5640"
+      Hint: Back Cover
+      Value: |
+        <image mediaid="{43AAB2D7-A1A4-440F-B357-A0BBAB2D7490}" />
+    - ID: "5f843adb-e7ee-472b-adb1-7385dc7636f1"
+      Hint: Publisher
+      Value: Westland
+    - ID: "7329b758-505a-49b2-9890-7a12cd751431"
+      Hint: Front Cover
+      Value: |
+        <image mediaid="{F8655986-A508-4A41-9924-019DEBFF52C3}" />
+    - ID: "89957319-c5fa-4c80-9bc1-63f896e8ec60"
+      Hint: ISBN 10
+      Value: 9381626707
+    - ID: "d33ad0de-05c6-419e-a8a5-0b823defaea8"
+      Hint: Book Type
+      Value: "{E484086A-0A9F-4F62-98B6-EDC784585C01}"
+    - ID: "ec1d2eb7-f58e-458e-9bdd-2b579dde2953"
+      Hint: Price
+      Value: 299
+    - ID: "efd4d78b-1f8e-496a-a522-b4211903cc35"
+      Hint: Category
+      Type: Multilist with Search
+      Value: |
+        {64F46553-25F9-47BE-BBB9-1B53DAAAE8EC}
+        {26090AF4-C099-4765-8C95-D8FF258CDBA2}
+    - ID: "f5076ecf-6ba8-44e3-af0f-bdcc71331337"
+      Hint: Author
+      Type: Multilist with Search
+      Value: "{CE1AA1C8-1E60-4D6B-ACF3-7CDE0DCCB45E}"
+- Language: "en-NZ-nz"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200727T073036Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200727T073203Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200727T073203Z

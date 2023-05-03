@@ -1,0 +1,91 @@
+﻿---
+ID: "1efe6b57-4e85-4cc5-a4a7-994865d51b99"
+Parent: "c324d89b-1747-487f-b1cb-b635e72a4ba2"
+Template: "c77cbf36-e660-4c1a-ab94-85f172ca180a"
+Path: /sitecore/content/Gymster/Home/Books/2019/05/11/07/39/Wings of Fire
+DB: master
+SharedFields:
+- ID: "9862ecb6-3e36-452d-8a0f-19272462e727"
+  Hint: Published Date
+  Value: 19981231T183000Z
+- ID: "9dafca1d-d618-4616-86b8-a8acd6b28a63"
+  Hint: __Bucket Parent Reference
+  Value: "{6DDBC62A-F0AE-4816-A602-F65A963EEEA4}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "24d7a5d2-d2b3-4d52-927e-c6722f6587f4"
+    Hint: Title
+    Value: Wings of Fire
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "18ebde06-3a15-4786-97a6-a88b23ceda0e"
+      Hint: ISBN 13
+      Value: "978-8173711466"
+    - ID: "2231b463-fb6c-4412-8f05-c7715ca9af3a"
+      Hint: Number of Pages
+      Value: 180
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190511T073923Z
+    - ID: "26fbf511-a5ec-4f33-8a49-21dfc6f78079"
+      Hint: Summary
+      Value: |
+        Every common man who by his sheer grit and hard work achieves success should share his story with the rest for they may find inspiration and strength to go on, in his story. The 'Wings of Fire' is one such autobiography by visionary scientist Dr. APJ Abdul Kalam, who from very humble beginnings rose to be the President of India. The book is full of insights, personal moments and life experiences of Dr. Kalam. It gives us an understanding on his journey of success.
+        
+        Dr. Kalam by narrating his life journey evokes the reader to identify with one’s inner fire and potential, for he was of the firm belief that each one of us was born with the strength and potential to make a tangible change in the world. How he inspired himself to achieve dreams and how he went about accomplishing so much is what the book captures nicely.
+        
+        The book recollects many anecdotes and stories from childhood, his time at school and college. The time spent at the Langley Research Center, NASA and Wallops Flight Facility gets a lot of attention.
+        
+        Personal tragedies have not been left out. The time when he lost his father and how he felt when conferred with many awards like the Padma Bhushan have been written in much detail.
+        
+        The second half of the book deals with Dr Kalam, the scientist who made a significant contribution in developing the countries guided missile program, a pioneering effort for the security of the nation. It's not with reason that he was nicknamed as the 'Missile Man of India'. The book also contains 24 photographs at various stages of his life.
+        
+        Authored by Dr APJ Abdul Kalam and Mr. Arun Tiwari, the 180 page book 'The Wings of Fire' was first published in the year 2000. Mr Tiwari is a well-known missile scientist who has worked with Dr. Kalam. Having become a bestseller, the book has even been translated into thirteen languages, which includes Chinese and French.
+        
+        About the Author
+        Dr APJ Abdul Kalam from 2002 to 2007 served as the 11th President of India. Greatly admired all over India, he was a scientist by profession, who played a leading role in developing the country's missile program. From humble roots in Rameswaram, Tamil Nadu, Dr Kalam in an inspirational autobiography 'The Wings of Fire' traces the rise and the mark he made in life.
+        
+        Mr. Arun Tiwari, a scientist, was a colleague of Dr Kalam.
+    - ID: "36461b6b-ef53-47c0-97f7-5373de7f2bf3"
+      Hint: Book Language
+      Value: English
+    - ID: "434a9027-02c8-4852-8d34-6ed59c9309f8"
+      Hint: Description
+      Value: |
+        <p style="color: #333333; background-color: #ffffff; margin-right: 0px; margin-bottom: 14px; margin-left: 0px; padding: 0px;">Every common man who by his sheer grit and hard work achieves success should share his story with the rest for they may find inspiration and strength to go on, in his story. The 'Wings of Fire' is one such autobiography by visionary scientist Dr. APJ Abdul Kalam, who from very humble beginnings rose to be the President of India. The book is full of insights, personal moments and life experiences of Dr. Kalam. It gives us an understanding on his journey of success.</p>
+        <p style="color: #333333; background-color: #ffffff; margin: -4px 0px 14px; padding: 0px;">Dr. Kalam by narrating his life journey evokes the reader to identify with one&rsquo;s inner fire and potential, for he was of the firm belief that each one of us was born with the strength and potential to make a tangible change in the world. How he inspired himself to achieve dreams and how he went about accomplishing so much is what the book captures nicely.</p>
+        <p style="color: #333333; background-color: #ffffff; margin: -4px 0px 14px; padding: 0px;">The book recollects many anecdotes and stories from childhood, his time at school and college. The time spent at the Langley Research Center, NASA and Wallops Flight Facility gets a lot of attention.</p>
+        <p style="color: #333333; background-color: #ffffff; margin: -4px 0px 14px; padding: 0px;">Personal tragedies have not been left out. The time when he lost his father and how he felt when conferred with many awards like the Padma Bhushan have been written in much detail.</p>
+        <p style="color: #333333; background-color: #ffffff; margin: -4px 0px 14px; padding: 0px;">The second half of the book deals with Dr Kalam, the scientist who made a significant contribution in developing the countries guided missile program, a pioneering effort for the security of the nation. It's not with reason that he was nicknamed as the 'Missile Man of India'. The book also contains 24 photographs at various stages of his life.</p>
+        <p style="color: #333333; background-color: #ffffff; margin: -4px 0px 14px; padding: 0px;">Authored by Dr APJ Abdul Kalam and Mr. Arun Tiwari, the 180 page book 'The Wings of Fire' was first published in the year 2000. Mr Tiwari is a well-known missile scientist who has worked with Dr. Kalam. Having become a bestseller, the book has even been translated into thirteen languages, which includes Chinese and French.</p>
+        <strong style="color: #333333; background-color: #ffffff;">About the Author</strong>
+        <p style="color: #333333; background-color: #ffffff; margin: 0px 0px 14px; padding: 0px;">Dr APJ Abdul Kalam from 2002 to 2007 served as the 11th President of India. Greatly admired all over India, he was a scientist by profession, who played a leading role in developing the country's missile program. From humble roots in Rameswaram, Tamil Nadu, Dr Kalam in an inspirational autobiography 'The Wings of Fire' traces the rise and the mark he made in life.</p>
+        <p style="color: #333333; background-color: #ffffff; margin-top: -4px; margin-right: 0px; margin-left: 0px; padding: 0px;">Mr. Arun Tiwari, a scientist, was a colleague of Dr Kalam.</p>
+    - ID: "5f843adb-e7ee-472b-adb1-7385dc7636f1"
+      Hint: Publisher
+      Value: Universities Press
+    - ID: "7329b758-505a-49b2-9890-7a12cd751431"
+      Hint: Front Cover
+      Value: |
+        <image mediaid="{784D02E9-5B25-4052-B13A-C71A928866DE}" />
+    - ID: "89957319-c5fa-4c80-9bc1-63f896e8ec60"
+      Hint: ISBN 10
+      Value: 8173711461
+    - ID: "d33ad0de-05c6-419e-a8a5-0b823defaea8"
+      Hint: Book Type
+      Value: "{E484086A-0A9F-4F62-98B6-EDC784585C01}"
+    - ID: "ec1d2eb7-f58e-458e-9bdd-2b579dde2953"
+      Hint: Price
+      Value: 211
+    - ID: "efd4d78b-1f8e-496a-a522-b4211903cc35"
+      Hint: Category
+      Type: Multilist with Search
+      Value: "{E4D607FE-137E-4B94-8CD0-3F91B47E075E}"
+    - ID: "f5076ecf-6ba8-44e3-af0f-bdcc71331337"
+      Hint: Author
+      Type: Multilist with Search
+      Value: |
+        {491E9C9D-4C77-4105-906B-7D9CE53154AA}
+        {FAF377DE-0A06-4780-9D90-94EC8A340867}

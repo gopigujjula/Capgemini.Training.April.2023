@@ -1,0 +1,21 @@
+﻿---
+ID: "84866a3a-af07-4675-947a-0e9babce2459"
+Parent: "f09e9cb8-5fe1-4036-8d37-f810137cd30f"
+Template: "f09e9cb8-5fe1-4036-8d37-f810137cd30f"
+Path: /sitecore/templates/Gymster/Data Templates/Book Taxonomy/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "24281b02-55b2-475a-b00a-6e3278ca0f6e"
+      Hint: Title
+      Value: $name
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190511T052848Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

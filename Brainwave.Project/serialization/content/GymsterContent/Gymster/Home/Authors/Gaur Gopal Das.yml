@@ -1,0 +1,26 @@
+﻿---
+ID: "a4c1fa59-e137-4872-af8b-801b8450913d"
+Parent: "09692438-026c-4f10-84a8-42741ffef90a"
+Template: "2e7cb92b-8a6a-468e-bb55-b8aea2701ec5"
+Path: /sitecore/content/Gymster/Home/Authors/Gaur Gopal Das
+DB: master
+SharedFields:
+- ID: "9dafca1d-d618-4616-86b8-a8acd6b28a63"
+  Hint: __Bucket Parent Reference
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190511T072449Z
+    - ID: "4d74009b-f75d-4913-8ad2-6c6bcdeb5ecb"
+      Hint: Biography
+      Value: |
+        <p style="color: #333333; background-color: #ffffff; margin: 0em 0px 1em 1em; padding: 0px;">Gaur Gopal Das studied electrical engineering from the College of Engineering, Pune. After a brief stint with Hewlett Packard, he decided to live life as a monk in an ashram in downtown Mumbai. He has remained there for twenty-two years, learning the antiquity of ancient philosophy and the modernity of contemporary psychology, to become a life coach to thousands in the city.</p>
+        <p style="color: #333333; background-color: #ffffff; margin: 0em 0px 1em 1em; padding: 0px;">Gaur Gopal Das has been travelling the world since 2005, sharing his wisdom with corporate executives, universities and charities. In 2016, his global popularity exploded as he took his message online. With millions of views on his videos on social media, he has now begun to lead a movement to help others achieve happiness and purpose in their lives. Now one of the most famous monks in the world, Gaur Gopal Das holds the title of 'The Ideal Young Spiritual Guru', conferred upon him by the Indian Student Parliament, MIT Pune.</p>
+    - ID: "a1534ae8-1754-4c8f-b57b-476254571f5e"
+      Hint: First Name
+      Value: Gaur Gopal Das

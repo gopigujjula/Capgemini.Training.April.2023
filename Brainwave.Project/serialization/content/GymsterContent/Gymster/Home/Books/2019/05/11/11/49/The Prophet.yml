@@ -1,0 +1,65 @@
+﻿---
+ID: "b76bedab-b723-4149-be72-975ca7328984"
+Parent: "bb23a248-82bb-47a4-a18f-fc773027a20b"
+Template: "c77cbf36-e660-4c1a-ab94-85f172ca180a"
+Path: /sitecore/content/Gymster/Home/Books/2019/05/11/11/49/The Prophet
+DB: master
+SharedFields:
+- ID: "9862ecb6-3e36-452d-8a0f-19272462e727"
+  Hint: Published Date
+  Value: 20170506T183000Z
+- ID: "9dafca1d-d618-4616-86b8-a8acd6b28a63"
+  Hint: __Bucket Parent Reference
+  Value: "{6DDBC62A-F0AE-4816-A602-F65A963EEEA4}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "24d7a5d2-d2b3-4d52-927e-c6722f6587f4"
+    Hint: Title
+    Value: The Prophet
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "18ebde06-3a15-4786-97a6-a88b23ceda0e"
+      Hint: ISBN 13
+      Value: "978-817234354X"
+    - ID: "2231b463-fb6c-4412-8f05-c7715ca9af3a"
+      Hint: Number of Pages
+      Value: 128
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190511T114922Z
+    - ID: "26fbf511-a5ec-4f33-8a49-21dfc6f78079"
+      Hint: Summary
+      Value: "A book of twenty-six poetic essays written in English, Kahlil Gibran’s The Prophet is full of religious inspirations. With the twelve illustrations drawn by the author himself, the book took more than eleven years to be formulated and perfected and is Gibran’s best-known work. It represents the height of his literary career as he came to be noted as 'the Bard of Washington Street.' Captivating and vivified with feeling, The Prophet has been translated into forty languages throughout the world and is considered the most widely read book of the twentieth century. Its first edition of 1300 copies sold out within a month."
+    - ID: "36461b6b-ef53-47c0-97f7-5373de7f2bf3"
+      Hint: Book Language
+      Value: English
+    - ID: "434a9027-02c8-4852-8d34-6ed59c9309f8"
+      Hint: Description
+      Value: |
+        <span style="background-color: #ffffff; color: #333333;">A book of twenty-six poetic essays written in English, Kahlil Gibran&rsquo;s The Prophet is full of religious inspirations. With the twelve illustrations drawn by the author himself, the book took more than eleven years to be formulated and perfected and is Gibran&rsquo;s best-known work. It represents the height of his literary career as he came to be noted as 'the Bard of Washington Street.' Captivating and vivified with feeling, The Prophet has been translated into forty languages throughout the world and is considered the most widely read book of the twentieth century. Its first edition of 1300 copies sold out within a month.</span>
+    - ID: "5f843adb-e7ee-472b-adb1-7385dc7636f1"
+      Hint: Publisher
+      Value: Fingerprint Publishing
+    - ID: "7329b758-505a-49b2-9890-7a12cd751431"
+      Hint: Front Cover
+      Value: |
+        <image mediaid="{51285AF8-66CC-4677-9778-97551B7E4C9B}" />
+    - ID: "89957319-c5fa-4c80-9bc1-63f896e8ec60"
+      Hint: ISBN 10
+      Value: 8172343545
+    - ID: "d33ad0de-05c6-419e-a8a5-0b823defaea8"
+      Hint: Book Type
+      Value: "{E484086A-0A9F-4F62-98B6-EDC784585C01}"
+    - ID: "ec1d2eb7-f58e-458e-9bdd-2b579dde2953"
+      Hint: Price
+      Value: 99
+    - ID: "efd4d78b-1f8e-496a-a522-b4211903cc35"
+      Hint: Category
+      Type: Multilist with Search
+      Value: "{5A72CBCE-761A-4D57-BBE8-D0E86728F75D}"
+    - ID: "f5076ecf-6ba8-44e3-af0f-bdcc71331337"
+      Hint: Author
+      Type: Multilist with Search
+      Value: "{D4A0CD4E-3DA1-47D8-87F8-557E4C7C1BAC}"

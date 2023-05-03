@@ -1,0 +1,81 @@
+﻿---
+ID: "b3d614ba-ba8f-40e2-97d9-f550548f960b"
+Parent: "9be74af3-da5d-48b0-83c8-00415e1be8ab"
+Template: "c77cbf36-e660-4c1a-ab94-85f172ca180a"
+Path: /sitecore/content/Gymster/Home/Books/2019/05/11/13/41/Take Me Home
+DB: master
+SharedFields:
+- ID: "9862ecb6-3e36-452d-8a0f-19272462e727"
+  Hint: Published Date
+  Value: 20140125T183000Z
+- ID: "9dafca1d-d618-4616-86b8-a8acd6b28a63"
+  Hint: __Bucket Parent Reference
+  Value: "{6DDBC62A-F0AE-4816-A602-F65A963EEEA4}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "24d7a5d2-d2b3-4d52-927e-c6722f6587f4"
+    Hint: Title
+    Value: "Take Me Home: The Inspiring Stories of 20 Entrepreneurs from Small Town India with Big-Time Dreams"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "18ebde06-3a15-4786-97a6-a88b23ceda0e"
+      Hint: ISBN 13
+      Value: "978-9383260805"
+    - ID: "2231b463-fb6c-4412-8f05-c7715ca9af3a"
+      Hint: Number of Pages
+      Value: 384
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190511T134141Z
+    - ID: "26fbf511-a5ec-4f33-8a49-21dfc6f78079"
+      Hint: Summary
+      Value: |
+        Readers who like to read about success stories of ordinary people will surely like this book. The book ‘Take Me Home: The Inspiring Stories of 20 Entrepreneurs from Small Town India with Big-Time Dreams’ makes an interesting read for all age groups.
+        
+        In this book the author shares the stories of successful entrepreneurs who made it big by always sticking to the ground and by learning from their mistakes. The author mostly writes about real people and this book is no different. The book has stories of common people with inspirational stores that can be used by other people to motivate themselves.
+        
+        The theme of the book is ‘Take Me Home’ and, as the name suggests, these stories have one thing in common: all these successful men and women once started from their respective homes. This group of twenty have taken inspiration from their homes and put their learning into good use. The book has been written in simple English, and can be understood by one and all. Readers who are looking to brush up their management and entrepreneurial skills will find this book an interesting learning experience.
+        
+        What is most interesting about this book is that all these twenty people have nothing in common when it comes to their backgrounds but they all had a dream and moved mountains to make it happen.
+    - ID: "36461b6b-ef53-47c0-97f7-5373de7f2bf3"
+      Hint: Book Language
+      Value: English
+    - ID: "434a9027-02c8-4852-8d34-6ed59c9309f8"
+      Hint: Description
+      Value: |
+        <p style="color: #333333; background-color: #ffffff; margin-right: 0px; margin-bottom: 14px; margin-left: 0px; padding: 0px;">Readers who like to read about success stories of ordinary people will surely like this book. The book &lsquo;Take Me Home: The Inspiring Stories of 20 Entrepreneurs from Small Town India with Big-Time Dreams&rsquo; makes an interesting read for all age groups.</p>
+        <p style="color: #333333; background-color: #ffffff; margin: -4px 0px 14px; padding: 0px;">In this book the author shares the stories of successful entrepreneurs who made it big by always sticking to the ground and by learning from their mistakes. The author mostly writes about real people and this book is no different. The book has stories of common people with inspirational stores that can be used by other people to motivate themselves.</p>
+        <p style="color: #333333; background-color: #ffffff; margin: -4px 0px 14px; padding: 0px;">The theme of the book is &lsquo;Take Me Home&rsquo; and, as the name suggests, these stories have one thing in common: all these successful men and women once started from their respective homes. This group of twenty have taken inspiration from their homes and put their learning into good use. The book has been written in simple English, and can be understood by one and all. Readers who are looking to brush up their management and entrepreneurial skills will find this book an interesting learning experience.</p>
+        <p style="color: #333333; background-color: #ffffff; margin: -4px 0px 14px; padding: 0px;">What is most interesting about this book is that all these twenty people have nothing in common when it comes to their backgrounds but they all had a dream and moved mountains to make it happen.</p>
+    - ID: "451f3f04-5146-463d-821f-9d563a7d5640"
+      Hint: Back Cover
+      Value: |
+        <image mediaid="{3FF2D3EB-619C-4384-83C4-C9B79C680BE3}" />
+    - ID: "5f843adb-e7ee-472b-adb1-7385dc7636f1"
+      Hint: Publisher
+      Value: Westland
+    - ID: "7329b758-505a-49b2-9890-7a12cd751431"
+      Hint: Front Cover
+      Value: |
+        <image mediaid="{73FF9642-6D94-485B-9D73-97532FD988A5}" />
+    - ID: "89957319-c5fa-4c80-9bc1-63f896e8ec60"
+      Hint: ISBN 10
+      Value: 9383260805
+    - ID: "d33ad0de-05c6-419e-a8a5-0b823defaea8"
+      Hint: Book Type
+      Value: "{E484086A-0A9F-4F62-98B6-EDC784585C01}"
+    - ID: "ec1d2eb7-f58e-458e-9bdd-2b579dde2953"
+      Hint: Price
+      Value: 275
+    - ID: "efd4d78b-1f8e-496a-a522-b4211903cc35"
+      Hint: Category
+      Type: Multilist with Search
+      Value: |
+        {26090AF4-C099-4765-8C95-D8FF258CDBA2}
+        {64F46553-25F9-47BE-BBB9-1B53DAAAE8EC}
+    - ID: "f5076ecf-6ba8-44e3-af0f-bdcc71331337"
+      Hint: Author
+      Type: Multilist with Search
+      Value: "{CE1AA1C8-1E60-4D6B-ACF3-7CDE0DCCB45E}"

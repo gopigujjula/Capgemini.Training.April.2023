@@ -1,0 +1,17 @@
+﻿---
+ID: "45bbbcc7-b88d-4b58-8aaa-22a6233b3a15"
+Parent: "d9a0ef6d-d2e2-466d-b67a-f512c01b225a"
+Template: "f09e9cb8-5fe1-4036-8d37-f810137cd30f"
+Path: /sitecore/content/Gymster/Data/Book Taxonomy/Languages/Kannada
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "24281b02-55b2-475a-b00a-6e3278ca0f6e"
+      Hint: Title
+      Value: Kannada
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190511T055451Z

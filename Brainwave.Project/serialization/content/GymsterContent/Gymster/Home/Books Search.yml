@@ -1,0 +1,33 @@
+﻿---
+ID: "38d6d69d-a413-4fef-86b1-69a944b97131"
+Parent: "ecc8aad9-d8cf-43d2-aab4-24c0c246fff1"
+Template: "6aa3d36e-620d-44b4-a904-2b3fa7baccb0"
+Path: /sitecore/content/Gymster/Home/Books Search
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{FB54BAFB-43F6-4582-A739-9EB2DBB4EAA5}"
+          p:after="*[1=2]"
+          s:id="{D866F85C-7040-4CB0-A4DE-C55F32397F47}"
+          s:ph="main" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230503T113027Z
+    - ID: "d5614ffc-6007-4e7c-9258-bb5246cafd9c"
+      Hint: Navigation Title
+      Value: Books Search

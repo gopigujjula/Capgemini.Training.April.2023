@@ -1,0 +1,65 @@
+﻿---
+ID: "0a28a455-8d8a-44c4-a987-bf8cd36de53e"
+Parent: "ebdd05f9-2adb-4197-9ff7-571ae7ef751a"
+Template: "c77cbf36-e660-4c1a-ab94-85f172ca180a"
+Path: /sitecore/content/Gymster/Home/Books/2019/05/11/10/44/The Tipping Point
+DB: master
+SharedFields:
+- ID: "9862ecb6-3e36-452d-8a0f-19272462e727"
+  Hint: Published Date
+  Value: 20020213T183000Z
+- ID: "9dafca1d-d618-4616-86b8-a8acd6b28a63"
+  Hint: __Bucket Parent Reference
+  Value: "{6DDBC62A-F0AE-4816-A602-F65A963EEEA4}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "24d7a5d2-d2b3-4d52-927e-c6722f6587f4"
+    Hint: Title
+    Value: "The Tipping Point: How Little Things Can Make a Big Difference"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "18ebde06-3a15-4786-97a6-a88b23ceda0e"
+      Hint: ISBN 13
+      Value: "978-0349113463"
+    - ID: "2231b463-fb6c-4412-8f05-c7715ca9af3a"
+      Hint: Number of Pages
+      Value: 288
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190511T104402Z
+    - ID: "26fbf511-a5ec-4f33-8a49-21dfc6f78079"
+      Hint: Summary
+      Value: In this brilliant and original book, Malcolm Gladwell explains and analyses the 'tipping point', that magic moment when ideas, trends and social behaviour cross a threshold, tip and spread like wildfire. Taking a look behind the surface of many familiar occurrences in our everyday world, Gladwell explains the fascinating social dynamics that cause rapid change.
+    - ID: "36461b6b-ef53-47c0-97f7-5373de7f2bf3"
+      Hint: Book Language
+      Value: English
+    - ID: "434a9027-02c8-4852-8d34-6ed59c9309f8"
+      Hint: Description
+      Value: |
+        <span style="background-color: #ffffff; color: #333333;">In this brilliant and original book, Malcolm Gladwell explains and analyses the 'tipping point', that magic moment when ideas, trends and social behaviour cross a threshold, tip and spread like wildfire. Taking a look behind the surface of many familiar occurrences in our everyday world, Gladwell explains the fascinating social dynamics that cause rapid change.</span>
+    - ID: "5f843adb-e7ee-472b-adb1-7385dc7636f1"
+      Hint: Publisher
+      Value: Abacus
+    - ID: "7329b758-505a-49b2-9890-7a12cd751431"
+      Hint: Front Cover
+      Value: |
+        <image mediaid="{635BF01E-E812-4482-AF32-C59969FA5C24}" />
+    - ID: "89957319-c5fa-4c80-9bc1-63f896e8ec60"
+      Hint: ISBN 10
+      Value: 0349113467
+    - ID: "d33ad0de-05c6-419e-a8a5-0b823defaea8"
+      Hint: Book Type
+      Value: "{E484086A-0A9F-4F62-98B6-EDC784585C01}"
+    - ID: "ec1d2eb7-f58e-458e-9bdd-2b579dde2953"
+      Hint: Price
+      Value: 224
+    - ID: "efd4d78b-1f8e-496a-a522-b4211903cc35"
+      Hint: Category
+      Type: Multilist with Search
+      Value: "{F0F862E3-60EE-4715-A69B-6818F5A947D1}"
+    - ID: "f5076ecf-6ba8-44e3-af0f-bdcc71331337"
+      Hint: Author
+      Type: Multilist with Search
+      Value: "{B6859156-D5A2-4BB2-ACCB-9C7C75D10463}"

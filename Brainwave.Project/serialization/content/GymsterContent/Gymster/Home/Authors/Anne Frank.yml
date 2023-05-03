@@ -1,0 +1,25 @@
+﻿---
+ID: "89a6e3a5-e9da-478f-8a85-b76c02906239"
+Parent: "09692438-026c-4f10-84a8-42741ffef90a"
+Template: "2e7cb92b-8a6a-468e-bb55-b8aea2701ec5"
+Path: /sitecore/content/Gymster/Home/Authors/Anne Frank
+DB: master
+SharedFields:
+- ID: "9dafca1d-d618-4616-86b8-a8acd6b28a63"
+  Hint: __Bucket Parent Reference
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190511T114207Z
+    - ID: "4d74009b-f75d-4913-8ad2-6c6bcdeb5ecb"
+      Hint: Biography
+      Value: |
+        <span style="background-color: #ffffff; color: #333333;">Anne Frank was a teen diarist and writer who transformed the pain of her secret world into a memoir that would be the most enduring document of the Nazi occupation in Germany. She was a German-Jewish teenager who, with her family, was forced to go into hiding. Her wartime diary, the Diary of a Young Girl, has been adapted into several plays and films since its publication in 1947.</span>
+    - ID: "a1534ae8-1754-4c8f-b57b-476254571f5e"
+      Hint: First Name
+      Value: Anne Frank

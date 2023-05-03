@@ -1,0 +1,18 @@
+﻿---
+ID: "cc6a9dda-3bec-4c2d-8eea-58284425f2d9"
+Parent: "ea4522f6-1339-4379-883b-376ac9abdfe4"
+Template: "adb6ca4f-03ef-4f47-b9ac-9ce2ba53ff97"
+Path: /sitecore/content/Gymster/Home/Books/2019/05/11/13/34
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230503T090502Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

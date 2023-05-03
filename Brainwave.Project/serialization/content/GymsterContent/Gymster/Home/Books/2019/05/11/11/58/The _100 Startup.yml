@@ -1,0 +1,71 @@
+﻿---
+ID: "c2a8ddf5-d922-4531-a854-5e917265e363"
+Parent: "ec50b0b5-6516-4580-9f7d-d37901753b30"
+Template: "c77cbf36-e660-4c1a-ab94-85f172ca180a"
+Path: /sitecore/content/Gymster/Home/Books/2019/05/11/11/58/The $100 Startup
+DB: master
+SharedFields:
+- ID: "9862ecb6-3e36-452d-8a0f-19272462e727"
+  Hint: Published Date
+  Value: 20150114T183000Z
+- ID: "9dafca1d-d618-4616-86b8-a8acd6b28a63"
+  Hint: __Bucket Parent Reference
+  Value: "{6DDBC62A-F0AE-4816-A602-F65A963EEEA4}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "24d7a5d2-d2b3-4d52-927e-c6722f6587f4"
+    Hint: Title
+    Value: "The $100 Startup: Fire Your Boss, Do What You Love and Work Better To Live More"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "18ebde06-3a15-4786-97a6-a88b23ceda0e"
+      Hint: ISBN 13
+      Value: "978-1447286318"
+    - ID: "2231b463-fb6c-4412-8f05-c7715ca9af3a"
+      Hint: Number of Pages
+      Value: 304
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190511T115851Z
+    - ID: "26fbf511-a5ec-4f33-8a49-21dfc6f78079"
+      Hint: Summary
+      Value: "Change your job to change your life. You no longer need to work nine-to-five in a big company to pay the mortgage, send your kids to school and afford that yearly holiday. You can quit the rat race and start up on your own – and you don't need an MBA or a huge investment to do it. The $100 Startup by Chris Guillebeau is your manual to a new way of living. Learn how to: - Earn a good living on your own terms, when and where you want - Achieve that perfect blend of passion and income to make work something you love - Take crucial insights from 50 ordinary people who started a business with $100 or less - Spend less time working and more time living your life"
+    - ID: "36461b6b-ef53-47c0-97f7-5373de7f2bf3"
+      Hint: Book Language
+      Value: English
+    - ID: "434a9027-02c8-4852-8d34-6ed59c9309f8"
+      Hint: Description
+      Value: |
+        <strong style="color: #333333; background-color: #ffffff;">Change your job to change your life.</strong><span style="background-color: #ffffff; color: #333333;">&nbsp;You no longer need to work nine-to-five in a big company to pay the mortgage, send your kids to school and afford that yearly holiday. You can quit the rat race and start up on your own &ndash; and you don't need an MBA or a huge investment to do it.&nbsp;</span><em style="color: #333333; background-color: #ffffff;">The $100 Startup</em><span style="background-color: #ffffff; color: #333333;">&nbsp;by Chris Guillebeau is your manual to a new way of living. Learn how to: - Earn a good living on your own terms, when and where you want - Achieve that perfect blend of passion and income to make work something you love - Take crucial insights from 50 ordinary people who started a business with $100 or less - Spend less time working and more time living your life</span>
+    - ID: "451f3f04-5146-463d-821f-9d563a7d5640"
+      Hint: Back Cover
+      Value: |
+        <image mediaid="{8C11DD7D-F80A-4507-93EE-C85CE962BAF2}" />
+    - ID: "5f843adb-e7ee-472b-adb1-7385dc7636f1"
+      Hint: Publisher
+      Value: Pan
+    - ID: "7329b758-505a-49b2-9890-7a12cd751431"
+      Hint: Front Cover
+      Value: |
+        <image mediaid="{AF34046E-5F80-464A-A2C9-921E80B6F4CB}" />
+    - ID: "89957319-c5fa-4c80-9bc1-63f896e8ec60"
+      Hint: ISBN 10
+      Value: 1447286316
+    - ID: "d33ad0de-05c6-419e-a8a5-0b823defaea8"
+      Hint: Book Type
+      Value: "{E484086A-0A9F-4F62-98B6-EDC784585C01}"
+    - ID: "ec1d2eb7-f58e-458e-9bdd-2b579dde2953"
+      Hint: Price
+      Value: 450
+    - ID: "efd4d78b-1f8e-496a-a522-b4211903cc35"
+      Hint: Category
+      Type: Multilist with Search
+      Value: |
+        {64F46553-25F9-47BE-BBB9-1B53DAAAE8EC}
+        {F0F862E3-60EE-4715-A69B-6818F5A947D1}
+    - ID: "f5076ecf-6ba8-44e3-af0f-bdcc71331337"
+      Hint: Author
+      Type: Multilist with Search
+      Value: "{F7BB52B5-E339-41F2-B1C9-64FEC863B469}"

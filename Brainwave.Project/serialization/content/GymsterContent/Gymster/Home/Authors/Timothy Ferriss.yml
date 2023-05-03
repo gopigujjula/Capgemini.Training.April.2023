@@ -1,0 +1,25 @@
+﻿---
+ID: "1ca348d3-319a-4eeb-a90c-1a741f9f678b"
+Parent: "09692438-026c-4f10-84a8-42741ffef90a"
+Template: "2e7cb92b-8a6a-468e-bb55-b8aea2701ec5"
+Path: /sitecore/content/Gymster/Home/Authors/Timothy Ferriss
+DB: master
+SharedFields:
+- ID: "9dafca1d-d618-4616-86b8-a8acd6b28a63"
+  Hint: __Bucket Parent Reference
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190511T115458Z
+    - ID: "4d74009b-f75d-4913-8ad2-6c6bcdeb5ecb"
+      Hint: Biography
+      Value: |
+        <span style="background-color: #ffffff; color: #333333;">Tim Ferriss has been listed as one of&nbsp;</span><em style="color: #333333; background-color: #ffffff;">Fast Company</em><span style="background-color: #ffffff; color: #333333;">&rsquo;s &ldquo;Most Innovative Business People&rdquo; and as a&nbsp;</span><em style="color: #333333; background-color: #ffffff;">Forbes</em><span style="background-color: #ffffff; color: #333333;">&nbsp;&rdquo;Names You Need to Know,&rdquo; and is the seventh &rdquo;most powerful&rdquo; personality on&nbsp;</span><em style="color: #333333; background-color: #ffffff;">Newsweek</em><span style="background-color: #ffffff; color: #333333;">&rsquo;s Digital 100 Power Index. He is an early-stage tech investor and advisor, working with Uber, Facebook, Twitter, Alibaba, and over fifty other organizations, and the author of three #1&nbsp;</span><em style="color: #333333; background-color: #ffffff;">New York Times</em><span style="background-color: #ffffff; color: #333333;">&nbsp;and&nbsp;</span><em style="color: #333333; background-color: #ffffff;">Wall Street Journal</em><span style="background-color: #ffffff; color: #333333;">&nbsp;bestsellers:&nbsp;</span><em style="color: #333333; background-color: #ffffff;">The 4-Hour Workweek</em><span style="background-color: #ffffff; color: #333333;">,</span><em style="color: #333333; background-color: #ffffff;">The 4-Hour Body</em><span style="background-color: #ffffff; color: #333333;">, and&nbsp;</span><em style="color: #333333; background-color: #ffffff;">The 4-Hour Chef</em><span style="background-color: #ffffff; color: #333333;">. His podcast,&nbsp;</span><em style="color: #333333; background-color: #ffffff;">The Tim Ferriss Show,&nbsp;</em><span style="background-color: #ffffff; color: #333333;">was one of iTunes&rsquo;s &ldquo;Best of 2015,&rdquo; typically among the top 30 out of more than 300,000 podcasts. Tim has been called &ldquo;the Oprah of audio&rdquo; due to the sales impact of the podcast, and past guests include Jamie Foxx, General Stanley McChrystal, Arnold Schwarzenegger, Edward Norton, and more than a hundred others.</span>
+    - ID: "a1534ae8-1754-4c8f-b57b-476254571f5e"
+      Hint: First Name
+      Value: Timothy Ferriss

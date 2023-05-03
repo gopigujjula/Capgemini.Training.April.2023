@@ -1,0 +1,28 @@
+﻿---
+ID: "efd4d78b-1f8e-496a-a522-b4211903cc35"
+Parent: "ba63eeb3-4b56-4b8d-ae0f-9dc852cd0539"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Gymster/Base Template/_Book/Category Section/Category
+DB: master
+SharedFields:
+- ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
+  Hint: Source
+  Value: "StartSearchLocation={45F597AD-AFA9-41C9-9DD3-101162996B83}&TemplateFilter={F09E9CB8-5FE1-4036-8D37-F810137CD30F}"
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: Multilist with Search
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190511T033536Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

@@ -1,0 +1,18 @@
+﻿---
+ID: "ded5c1f4-8b0b-437a-ac75-43addac5e916"
+Parent: "d0e0f3ac-ed4e-480f-85f5-c2a91124be21"
+Template: "c77cbf36-e660-4c1a-ab94-85f172ca180a"
+Path: /sitecore/content/Gymster/Home/Books/2023/05/03/09/14/Ikigai
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "24d7a5d2-d2b3-4d52-927e-c6722f6587f4"
+    Hint: Title
+    Value: Ikigai
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230503T091436Z

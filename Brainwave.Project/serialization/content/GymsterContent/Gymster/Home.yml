@@ -60,6 +60,10 @@ Languages:
       Hint: __Created by
       Value: |
         sitecore\Admin
+    - ID: "864e4a76-08aa-4a40-b9f5-d0eaeba6d695"
+      Hint: Show In Navigation
+      Type: Checkbox
+      Value: 1
     - ID: "d5614ffc-6007-4e7c-9258-bb5246cafd9c"
       Hint: Navigation Title
       Value: Home

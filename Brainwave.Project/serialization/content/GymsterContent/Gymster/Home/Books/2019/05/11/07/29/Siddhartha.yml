@@ -1,0 +1,71 @@
+﻿---
+ID: "7fb0b7e6-109f-4b37-99ab-b977e67c410b"
+Parent: "115a185d-a82a-4f57-817a-8c19885457a2"
+Template: "c77cbf36-e660-4c1a-ab94-85f172ca180a"
+Path: /sitecore/content/Gymster/Home/Books/2019/05/11/07/29/Siddhartha
+DB: master
+SharedFields:
+- ID: "9862ecb6-3e36-452d-8a0f-19272462e727"
+  Hint: Published Date
+  Value: 20110831T183000Z
+- ID: "9dafca1d-d618-4616-86b8-a8acd6b28a63"
+  Hint: __Bucket Parent Reference
+  Value: "{6DDBC62A-F0AE-4816-A602-F65A963EEEA4}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "24d7a5d2-d2b3-4d52-927e-c6722f6587f4"
+    Hint: Title
+    Value: Siddhartha
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "18ebde06-3a15-4786-97a6-a88b23ceda0e"
+      Hint: ISBN 13
+      Value: "978-9380914145"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190511T072912Z
+    - ID: "26fbf511-a5ec-4f33-8a49-21dfc6f78079"
+      Hint: Summary
+      Value: |
+        Siddhartha is a novel by Hermann Hesse that deals with the spiritual journey of a boy known as Siddhartha from the Indian subcontinent during the time of Lord Buddha.
+        
+        In a very simple prose, Hesse has conveyed a very profound message for all seekers. A brahmin boy follows his heart and goes through various lives to finally understand what it means to be enlightened. He experiences life as a pious brahmin, a Samana, a rich merchant, a lover and an ordinary ferryman, to a father. Neither a practitioner nor a devotee, neither meditating nor reciting, Siddhartha comes to blend in with the world, resonating with the rhythms of nature, bending the reader's ear down to hear answers from the river.
+    - ID: "36461b6b-ef53-47c0-97f7-5373de7f2bf3"
+      Hint: Book Language
+      Value: English
+    - ID: "434a9027-02c8-4852-8d34-6ed59c9309f8"
+      Hint: Description
+      Value: |
+        <span style="background-color: #ffffff; color: #333333;">Siddhartha is a novel by Hermann Hesse that deals with the spiritual journey of a boy known as Siddhartha from the Indian subcontinent during the time of Lord Buddha.</span><br style="color: #333333; background-color: #ffffff;" />
+        <br style="color: #333333; background-color: #ffffff;" />
+        <span style="background-color: #ffffff; color: #333333;">In a very simple prose, Hesse has conveyed a very profound message for all seekers. A brahmin boy follows his heart and goes through various lives to finally understand what it means to be enlightened. He experiences life as a pious brahmin, a Samana, a rich merchant, a lover and an ordinary ferryman, to a father. Neither a practitioner nor a devotee, neither meditating nor reciting, Siddhartha comes to blend in with the world, resonating with the rhythms of nature, bending the reader's ear down to hear answers from the river.</span>
+    - ID: "451f3f04-5146-463d-821f-9d563a7d5640"
+      Hint: Back Cover
+      Value: |
+        <image mediaid="{AFC554C5-3D40-47C2-BAF2-DA2E7A35AF42}" />
+    - ID: "5f843adb-e7ee-472b-adb1-7385dc7636f1"
+      Hint: Publisher
+      Value: General Press
+    - ID: "7329b758-505a-49b2-9890-7a12cd751431"
+      Hint: Front Cover
+      Value: |
+        <image mediaid="{C289A19B-4B7F-40E0-A53B-1AB5B2DFA31F}" />
+    - ID: "89957319-c5fa-4c80-9bc1-63f896e8ec60"
+      Hint: ISBN 10
+      Value: 9380914148
+    - ID: "d33ad0de-05c6-419e-a8a5-0b823defaea8"
+      Hint: Book Type
+      Value: "{E484086A-0A9F-4F62-98B6-EDC784585C01}"
+    - ID: "ec1d2eb7-f58e-458e-9bdd-2b579dde2953"
+      Hint: Price
+      Value: 146
+    - ID: "efd4d78b-1f8e-496a-a522-b4211903cc35"
+      Hint: Category
+      Type: Multilist with Search
+      Value: "{0F16E33F-C22A-41A6-B356-173695DC7330}"
+    - ID: "f5076ecf-6ba8-44e3-af0f-bdcc71331337"
+      Hint: Author
+      Type: Multilist with Search
+      Value: "{48B26F3B-B2C0-448C-BEE9-0E31B468596B}"

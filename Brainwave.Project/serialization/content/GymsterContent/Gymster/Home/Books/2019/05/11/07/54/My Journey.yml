@@ -1,0 +1,85 @@
+﻿---
+ID: "cb83d9c1-5f5b-45dd-b8ea-e2f9e11f9515"
+Parent: "ca4b15d2-4dcf-4f63-a8e3-001543b880ca"
+Template: "c77cbf36-e660-4c1a-ab94-85f172ca180a"
+Path: /sitecore/content/Gymster/Home/Books/2019/05/11/07/54/My Journey
+DB: master
+SharedFields:
+- ID: "9862ecb6-3e36-452d-8a0f-19272462e727"
+  Hint: Published Date
+  Value: 20130826T183000Z
+- ID: "9dafca1d-d618-4616-86b8-a8acd6b28a63"
+  Hint: __Bucket Parent Reference
+  Value: "{6DDBC62A-F0AE-4816-A602-F65A963EEEA4}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "24d7a5d2-d2b3-4d52-927e-c6722f6587f4"
+    Hint: Title
+    Value: "My Journey: Transforming Dreams into Actions"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "18ebde06-3a15-4786-97a6-a88b23ceda0e"
+      Hint: ISBN 13
+      Value: "978-8129124913"
+    - ID: "2231b463-fb6c-4412-8f05-c7715ca9af3a"
+      Hint: Number of Pages
+      Value: 160
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190511T075444Z
+    - ID: "26fbf511-a5ec-4f33-8a49-21dfc6f78079"
+      Hint: Summary
+      Value: |
+        The book, ‘My Journey: Transforming Dreams into Actions’ is the life story of Dr. APJ Abdul Kalam, India's famous scientist and former President. Written with a powerful narrative style laden with significant experiences, Dr. Kalam has filled this book with the details that matter. This inspirational book has been published by Rupa Publications India in the year 2013.
+        
+        The book reveals the famous story of how a simple child from Rameshwaram became the President of the world’s largest democracy. It is an extraordinary tale of India’s most celebrated scientist who along with his research found time for his fellow people and worked hard towards their development. In this book, Dr. Kalam sheds light on several personal aspects like the people who he was very close to and their influence on him. He also speaks in detail about the life and the atmosphere at Rameshwaram. He talks about his upbringing and family as well and the various pangs and toils he had to go through.
+        
+        A large part of this book deals with Dr.Kalam’s work in India’s space program. He talks about the difficulties they had to face while developing India’s first space vehicle. Written in a candid manner, you can now go through the nitty-gritty details of the life of Dr. Kalam as told by the former President himself.
+        
+        About the Author
+        
+        A. P. J. Abdul Kalam is one of the most famous and respected names in India. A visionary scientist, honest politician and a true Indian, Dr. Kalam stood for the best of human values. He served as the President of India from 2002 to 2007 and is often regarded as the 'Missile man of India', having acted as a catalyst towards the substantial growth of India’s space program. In 1954, he completed his graduation in Physics from Saint Joseph’s college, Tiruchirappalli which was then associated with the University of Madras. He then went on to study Aerospace Engineering from the highly reputed Madras Institute of Technology. Overall, he has received honorary doctorates from over 40 universities. He won the Von Braun Award from the National Space Society and Hoover Medal from ASME Foundation, USA. Government of India conferred him Bharat Ratna in 1997. Some of his famous books are Advantage India: From Challenge to Opportunity, Wings of Fire and Envisioning an Empowered Nation.
+        
+        The book, ‘My Journey: Transforming Dreams into Actions’ is full of inspiration and reveals the life of Dr, Kalam. This book is easily available online for convenient shopping.
+    - ID: "36461b6b-ef53-47c0-97f7-5373de7f2bf3"
+      Hint: Book Language
+      Value: English
+    - ID: "434a9027-02c8-4852-8d34-6ed59c9309f8"
+      Hint: Description
+      Value: |
+        <p style="color: #333333; background-color: #ffffff; margin-right: 0px; margin-bottom: 14px; margin-left: 0px; padding: 0px;">The book, &lsquo;My Journey: Transforming Dreams into Actions&rsquo; is the life story of Dr. APJ Abdul Kalam, India's famous scientist and former President. Written with a powerful narrative style laden with significant experiences, Dr. Kalam has filled this book with the details that matter. This inspirational book has been published by Rupa Publications India in the year 2013.</p>
+        <p style="color: #333333; background-color: #ffffff; margin: -4px 0px 14px; padding: 0px;">The book reveals the famous story of how a simple child from Rameshwaram became the President of the world&rsquo;s largest democracy. It is an extraordinary tale of India&rsquo;s most celebrated scientist who along with his research found time for his fellow people and worked hard towards their development. In this book, Dr. Kalam sheds light on several personal aspects like the people who he was very close to and their influence on him. He also speaks in detail about the life and the atmosphere at Rameshwaram. He talks about his upbringing and family as well and the various pangs and toils he had to go through.</p>
+        <p style="color: #333333; background-color: #ffffff; margin: -4px 0px 14px; padding: 0px;">A large part of this book deals with Dr.Kalam&rsquo;s work in India&rsquo;s space program. He talks about the difficulties they had to face while developing India&rsquo;s first space vehicle. Written in a candid manner, you can now go through the nitty-gritty details of the life of Dr. Kalam as told by the former President himself.</p>
+        <p style="color: #333333; background-color: #ffffff; margin: -4px 0px 14px; padding: 0px;"><strong>About the Author</strong></p>
+        <p style="color: #333333; background-color: #ffffff; margin: -4px 0px 14px; padding: 0px;">A. P. J. Abdul Kalam is one of the most famous and respected names in India. A visionary scientist, honest politician and a true Indian, Dr. Kalam stood for the best of human values. He served as the President of India from 2002 to 2007 and is often regarded as the 'Missile man of India', having acted as a catalyst towards the substantial growth of India&rsquo;s space program. In 1954, he completed his graduation in Physics from Saint Joseph&rsquo;s college, Tiruchirappalli which was then associated with the University of Madras. He then went on to study Aerospace Engineering from the highly reputed Madras Institute of Technology. Overall, he has received honorary doctorates from over 40 universities. He won the Von Braun Award from the National Space Society and Hoover Medal from ASME Foundation, USA. Government of India conferred him Bharat Ratna in 1997. Some of his famous books are Advantage India: From Challenge to Opportunity, Wings of Fire and Envisioning an Empowered Nation.</p>
+        <p style="color: #333333; background-color: #ffffff; margin: -4px 0px 14px; padding: 0px;">The book, &lsquo;My Journey: Transforming Dreams into Actions&rsquo; is full of inspiration and reveals the life of Dr, Kalam. This book is easily available online for convenient shopping.</p>
+    - ID: "451f3f04-5146-463d-821f-9d563a7d5640"
+      Hint: Back Cover
+      Value: |
+        <image mediaid="{64AD07F4-5514-4893-B55F-9AC5FAB93D64}" />
+    - ID: "5f843adb-e7ee-472b-adb1-7385dc7636f1"
+      Hint: Publisher
+      Value: Rupa Publications India
+    - ID: "7329b758-505a-49b2-9890-7a12cd751431"
+      Hint: Front Cover
+      Value: |
+        <image mediaid="{C0682D55-32DC-486E-9B35-DA9E3D4931E4}" />
+    - ID: "89957319-c5fa-4c80-9bc1-63f896e8ec60"
+      Hint: ISBN 10
+      Value: 8129124913
+    - ID: "d33ad0de-05c6-419e-a8a5-0b823defaea8"
+      Hint: Book Type
+      Value: "{E484086A-0A9F-4F62-98B6-EDC784585C01}"
+    - ID: "ec1d2eb7-f58e-458e-9bdd-2b579dde2953"
+      Hint: Price
+      Value: 142
+    - ID: "efd4d78b-1f8e-496a-a522-b4211903cc35"
+      Hint: Category
+      Type: Multilist with Search
+      Value: "{E4D607FE-137E-4B94-8CD0-3F91B47E075E}"
+    - ID: "f5076ecf-6ba8-44e3-af0f-bdcc71331337"
+      Hint: Author
+      Type: Multilist with Search
+      Value: "{491E9C9D-4C77-4105-906B-7D9CE53154AA}"

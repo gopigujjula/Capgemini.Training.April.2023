@@ -1,0 +1,14 @@
+﻿---
+ID: "4c8d558f-6f83-4542-9cd3-ae086ec3e97f"
+Parent: "987bcb4c-b7ac-4988-9993-afad8c7d5f11"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Gymster/Base Template/_Author/Name
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190511T051104Z

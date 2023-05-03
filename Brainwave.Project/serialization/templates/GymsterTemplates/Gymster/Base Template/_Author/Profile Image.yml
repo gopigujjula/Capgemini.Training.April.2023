@@ -1,0 +1,18 @@
+﻿---
+ID: "c5eb807b-2c5e-4f65-ab9f-f51e256a85f3"
+Parent: "987bcb4c-b7ac-4988-9993-afad8c7d5f11"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Gymster/Base Template/_Author/Profile Image
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190511T051803Z

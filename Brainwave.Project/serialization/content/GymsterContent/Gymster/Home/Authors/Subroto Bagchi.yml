@@ -1,0 +1,25 @@
+﻿---
+ID: "b893e96e-474e-47f1-9689-467342baa425"
+Parent: "09692438-026c-4f10-84a8-42741ffef90a"
+Template: "2e7cb92b-8a6a-468e-bb55-b8aea2701ec5"
+Path: /sitecore/content/Gymster/Home/Authors/Subroto Bagchi
+DB: master
+SharedFields:
+- ID: "9dafca1d-d618-4616-86b8-a8acd6b28a63"
+  Hint: __Bucket Parent Reference
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190511T132802Z
+    - ID: "4d74009b-f75d-4913-8ad2-6c6bcdeb5ecb"
+      Hint: Biography
+      Value: |
+        <span style="background-color: #ffffff; color: #333333;">Subroto Bagchi is an author, business leader and entrepreneur. He graduated from Utkal University with a degree in Political Science. He began working for the Odisha government in their Industries Department, as a clerk. He then worked for several computer industries during 1981 and 1999, in different departments such as marketing, operations and sales. Bagchi is a co-founder of Mindtree Ltd. Some of Bagchi's famous books include the Elephant Catchers: Key Lessons for Breakthrough Growth, MBA at 16: A Teenager's Guide to the World of Business and Professional: Defining the New Standard of Excellence at Work.</span>
+    - ID: "a1534ae8-1754-4c8f-b57b-476254571f5e"
+      Hint: First Name
+      Value: Subroto Bagchi

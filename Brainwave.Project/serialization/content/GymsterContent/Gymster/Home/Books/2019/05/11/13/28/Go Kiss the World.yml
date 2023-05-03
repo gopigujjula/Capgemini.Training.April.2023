@@ -1,0 +1,76 @@
+﻿---
+ID: "cd463a01-6063-48f8-96d5-480bc1badfee"
+Parent: "4fb8bf81-3d3d-4a9e-a79d-936c6203d1d6"
+Template: "c77cbf36-e660-4c1a-ab94-85f172ca180a"
+Path: /sitecore/content/Gymster/Home/Books/2019/05/11/13/28/Go Kiss the World
+DB: master
+SharedFields:
+- ID: "9862ecb6-3e36-452d-8a0f-19272462e727"
+  Hint: Published Date
+  Value: 20080619T183000Z
+- ID: "9dafca1d-d618-4616-86b8-a8acd6b28a63"
+  Hint: __Bucket Parent Reference
+  Value: "{6DDBC62A-F0AE-4816-A602-F65A963EEEA4}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "24d7a5d2-d2b3-4d52-927e-c6722f6587f4"
+    Hint: Title
+    Value: Go Kiss the World
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "18ebde06-3a15-4786-97a6-a88b23ceda0e"
+      Hint: ISBN 13
+      Value: "978-0670082308"
+    - ID: "2231b463-fb6c-4412-8f05-c7715ca9af3a"
+      Hint: Number of Pages
+      Value: 256
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190511T132844Z
+    - ID: "26fbf511-a5ec-4f33-8a49-21dfc6f78079"
+      Hint: Summary
+      Value: |
+        Go, Kiss The World starts off with Bagchi's story behind the title, where he recounts the last time he visited his ailing mother in hospital. Bagchi repeatedly kissed his mother's hand, who asks him why he did so. After telling her why he shouldn't, Bagchi's mother urges him to go and kiss the world. This book is divided into three parts, which Bagchi believes, constitute the making of a young professional.
+        
+        In the first part, Bagchi throws light on how values and character leave their impression on a child's mind and the remarkable difference that mentoring can make on an individual at any stage in their life. Bagchi then reaffirms that he treasures his childhood and forgetting it would cause the child in him to die. The second part is about the ups and downs that a young professional would face in their career. He then talks about his journey from being a clerk in a government office to the co-founder of Mindtree, which is the nation's first venture-funded IT services firm to be listed publicly.
+        
+        In the third part, Bagchi tells the readers about his journey through his forties, although ongoing, about the times when he fell and got up and learnt from those who were there before him. He then explains that forties are a highly crucial period in the life of professionals and compares it to an assault camp where preparations are made prior to climbing the last peak.
+    - ID: "36461b6b-ef53-47c0-97f7-5373de7f2bf3"
+      Hint: Book Language
+      Value: English
+    - ID: "434a9027-02c8-4852-8d34-6ed59c9309f8"
+      Hint: Description
+      Value: |
+        <p style="color: #333333; background-color: #ffffff; margin-right: 0px; margin-bottom: 1em; margin-left: 0px; padding: 0px;">Go, Kiss The World starts off with Bagchi's story behind the title, where he recounts the last time he visited his ailing mother in hospital. Bagchi repeatedly kissed his mother's hand, who asks him why he did so. After telling her why he shouldn't, Bagchi's mother urges him to go and kiss the world. This book is divided into three parts, which Bagchi believes, constitute the making of a young professional.</p>
+        <p style="color: #333333; background-color: #ffffff; margin: 0px 0px 1em; padding: 0px;">In the first part, Bagchi throws light on how values and character leave their impression on a child's mind and the remarkable difference that mentoring can make on an individual at any stage in their life. Bagchi then reaffirms that he treasures his childhood and forgetting it would cause the child in him to die. The second part is about the ups and downs that a young professional would face in their career. He then talks about his journey from being a clerk in a government office to the co-founder of Mindtree, which is the nation's first venture-funded IT services firm to be listed publicly.</p>
+        <p style="color: #333333; background-color: #ffffff; margin: 0px 0px 1em; padding: 0px;">In the third part, Bagchi tells the readers about his journey through his forties, although ongoing, about the times when he fell and got up and learnt from those who were there before him. He then explains that forties are a highly crucial period in the life of professionals and compares it to an assault camp where preparations are made prior to climbing the last peak.</p>
+    - ID: "451f3f04-5146-463d-821f-9d563a7d5640"
+      Hint: Back Cover
+      Value: |
+        <image mediaid="{2B38F912-B7E7-4F97-83C0-A05E81535C11}" />
+    - ID: "5f843adb-e7ee-472b-adb1-7385dc7636f1"
+      Hint: Publisher
+      Value: Penguin India
+    - ID: "7329b758-505a-49b2-9890-7a12cd751431"
+      Hint: Front Cover
+      Value: |
+        <image mediaid="{C5543811-FE15-4018-8E8D-F4EFBFAE6826}" />
+    - ID: "89957319-c5fa-4c80-9bc1-63f896e8ec60"
+      Hint: ISBN 10
+      Value: 0670082309
+    - ID: "d33ad0de-05c6-419e-a8a5-0b823defaea8"
+      Hint: Book Type
+      Value: "{6CD31934-288E-4C62-AF3B-0D05F0ABF082}"
+    - ID: "ec1d2eb7-f58e-458e-9bdd-2b579dde2953"
+      Hint: Price
+      Value: 450
+    - ID: "efd4d78b-1f8e-496a-a522-b4211903cc35"
+      Hint: Category
+      Type: Multilist with Search
+      Value: "{E4D607FE-137E-4B94-8CD0-3F91B47E075E}"
+    - ID: "f5076ecf-6ba8-44e3-af0f-bdcc71331337"
+      Hint: Author
+      Type: Multilist with Search
+      Value: "{B893E96E-474E-47F1-9689-467342BAA425}"

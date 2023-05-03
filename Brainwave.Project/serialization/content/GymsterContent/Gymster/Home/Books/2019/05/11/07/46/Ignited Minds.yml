@@ -1,0 +1,77 @@
+﻿---
+ID: "be44da83-3d8a-4848-8a07-6f65d4574dfd"
+Parent: "ffe00eee-0376-4bdb-a7d4-ad0cb3e88fa2"
+Template: "c77cbf36-e660-4c1a-ab94-85f172ca180a"
+Path: /sitecore/content/Gymster/Home/Books/2019/05/11/07/46/Ignited Minds
+DB: master
+SharedFields:
+- ID: "9862ecb6-3e36-452d-8a0f-19272462e727"
+  Hint: Published Date
+  Value: 20141111T183000Z
+- ID: "9dafca1d-d618-4616-86b8-a8acd6b28a63"
+  Hint: __Bucket Parent Reference
+  Value: "{6DDBC62A-F0AE-4816-A602-F65A963EEEA4}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "24d7a5d2-d2b3-4d52-927e-c6722f6587f4"
+    Hint: Title
+    Value: "Ignited Minds: Unleashing the power within india"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "18ebde06-3a15-4786-97a6-a88b23ceda0e"
+      Hint: ISBN 13
+      Value: "978-0143424123"
+    - ID: "2231b463-fb6c-4412-8f05-c7715ca9af3a"
+      Hint: Number of Pages
+      Value: 208
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190511T074643Z
+    - ID: "26fbf511-a5ec-4f33-8a49-21dfc6f78079"
+      Hint: Summary
+      Value: |
+        Authored by the most influential Indian President yet, this book delves into the obstacles that are preventing India from rising up to the challenge of development. India has unmatched talent and ambition with an inherent tendency to work hard, then what is it that keeps India from overtaking the world. Why does India as a nation settle for the ordinary when the extraordinary is well within the reach?
+        
+        Dr. Kalam shares his dream of a nation that is unrivaled, he discusses how he has, from his experience, met such skilled people whose visions can transform the nation. It is imperative that one searches for own solutions and find role-models in countrymen instead of looking towards the other nations. India must not strive to be the next America or Japan but has to be the strong nation that she is capable of becoming. For this, all the trapped energies and initiatives need to be freed instead of suppressing them.
+        
+        In the book, we are introduced to numerous role models that are hiding amongst us. Words of wisdom from saints and seers that the author encountered through his life have been quoted. The book proceeds to address the issues at hand and mentions some reforms that have to be incorporated in politics and policies. The policy making procedure of the nation requires major reforms. The youth has to be given a stage and the reins of the nation need to be passed on. The book motivates the young minds and forces the positive auras together to build the face of a new nation.
+        
+        About the Author
+        A.P.J. Abdul Kalam: The former President of India and one of the most celebrated scientists in independent India, A.P.J Abdul Kalam was also a prolific writer who authored numerous books including India 2020: A Vision For The New Millennium and Unleashing the Power Within India, among many others. He was also a part of DRDO’s Aeronautical Development Establishment and was a lead scientist in India's nuclear weapons development program that included conducting of the underground Pokhran II tests.
+    - ID: "36461b6b-ef53-47c0-97f7-5373de7f2bf3"
+      Hint: Book Language
+      Value: English
+    - ID: "434a9027-02c8-4852-8d34-6ed59c9309f8"
+      Hint: Description
+      Value: |
+        <p style="color: #333333; background-color: #ffffff; margin-right: 0px; margin-bottom: 14px; margin-left: 0px; padding: 0px;">Authored by the most influential Indian President yet, this book delves into the obstacles that are preventing India from rising up to the challenge of development. India has unmatched talent and ambition with an inherent tendency to work hard, then what is it that keeps India from overtaking the world. Why does India as a nation settle for the ordinary when the extraordinary is well within the reach?</p>
+        <p style="color: #333333; background-color: #ffffff; margin: -4px 0px 14px; padding: 0px;">Dr. Kalam shares his dream of a nation that is unrivaled, he discusses how he has, from his experience, met such skilled people whose visions can transform the nation. It is imperative that one searches for own solutions and find role-models in countrymen instead of looking towards the other nations. India must not strive to be the next America or Japan but has to be the strong nation that she is capable of becoming. For this, all the trapped energies and initiatives need to be freed instead of suppressing them.</p>
+        <p style="color: #333333; background-color: #ffffff; margin: -4px 0px 14px; padding: 0px;">In the book, we are introduced to numerous role models that are hiding amongst us. Words of wisdom from saints and seers that the author encountered through his life have been quoted. The book proceeds to address the issues at hand and mentions some reforms that have to be incorporated in politics and policies. The policy making procedure of the nation requires major reforms. The youth has to be given a stage and the reins of the nation need to be passed on. The book motivates the young minds and forces the positive auras together to build the face of a new nation.</p>
+        <strong style="color: #333333; background-color: #ffffff;">About the Author</strong>
+        <p style="color: #333333; background-color: #ffffff; margin-top: 0px; margin-right: 0px; margin-left: 0px; padding: 0px;">A.P.J. Abdul Kalam: The former President of India and one of the most celebrated scientists in independent India, A.P.J Abdul Kalam was also a prolific writer who authored numerous books including India 2020: A Vision For The New Millennium and Unleashing the Power Within India, among many others. He was also a part of DRDO&rsquo;s Aeronautical Development Establishment and was a lead scientist in India's nuclear weapons development program that included conducting of the underground Pokhran II tests.</p>
+    - ID: "5f843adb-e7ee-472b-adb1-7385dc7636f1"
+      Hint: Publisher
+      Value: Penguin
+    - ID: "7329b758-505a-49b2-9890-7a12cd751431"
+      Hint: Front Cover
+      Value: |
+        <image mediaid="{DB1BCAFB-88C8-4949-AA80-DBDB2D75E837}" />
+    - ID: "89957319-c5fa-4c80-9bc1-63f896e8ec60"
+      Hint: ISBN 10
+      Value: 0143424123
+    - ID: "d33ad0de-05c6-419e-a8a5-0b823defaea8"
+      Hint: Book Type
+      Value: "{E484086A-0A9F-4F62-98B6-EDC784585C01}"
+    - ID: "ec1d2eb7-f58e-458e-9bdd-2b579dde2953"
+      Hint: Price
+      Value: 159
+    - ID: "efd4d78b-1f8e-496a-a522-b4211903cc35"
+      Hint: Category
+      Type: Multilist with Search
+      Value: "{F0F862E3-60EE-4715-A69B-6818F5A947D1}"
+    - ID: "f5076ecf-6ba8-44e3-af0f-bdcc71331337"
+      Hint: Author
+      Type: Multilist with Search
+      Value: "{491E9C9D-4C77-4105-906B-7D9CE53154AA}"
